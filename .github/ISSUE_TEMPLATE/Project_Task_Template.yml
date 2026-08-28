@@ -1,0 +1,89 @@
+name: Project Task
+description: Create a structured task for your project execution system.
+title: "[Task] "
+labels: ["task"]
+assignees: []
+
+body:
+
+  - type: markdown
+    attributes:
+      value: "## Task Definition"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description (What + Why)
+      description: Explain what this task is and why it matters.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Task Type
+      description: Select the operational category of this task.
+      options:
+        - Research
+        - Design
+        - Make
+        - Integration
+        - Testing
+        - Documentation
+        - Presentation
+        - Assessment
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria (Definition of Done)
+      description: List specific conditions required for completion. Must include at least one concrete deliverable.
+      placeholder: |
+        - Condition 1
+        - Condition 2
+        - Deliverable artifact
+    validations:
+      required: true
+
+  - type: input
+    id: dependencies
+    attributes:
+      label: Dependencies
+      description: List related issues or prerequisites (Issue # if known). Example: #12, #15
+
+  - type: input
+    id: milestone
+    attributes:
+      label: Milestone
+      description: Which milestone does this belong to? (You must also assign this in the GitHub sidebar)
+
+  - type: input
+    id: component
+    attributes:
+      label: Component / Subsystem
+      description: Which part of your project does this affect? (e.g., audio, UI, hardware)
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Where did this task originate? (feedback, research, critique, etc.)
+
+  - type: textarea
+    id: ai_usage
+    attributes:
+      label: AI Collaboration (Optional)
+      description: Briefly describe AI involvement, if applicable.
