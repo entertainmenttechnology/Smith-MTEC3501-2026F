@@ -2,118 +2,260 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
-## Semester
-Term: [Semester and term dates]  
-**Instructor:** [David B Smith] • **Contact:** [dsmith@citytech.cuny.edu](mailto:dsmith@citytech.cuny.edu)
+## ➜ [LINK TO FIRST WEEK CLASS](./assignments/week01/README.md)
 
-MTEC 3501 guides students through the research, proposal, and planning stages toward a culminating project and proof-of-concept prototype.
+**Term:** Fall 2026  
+**Instructor:** David B. Smith  
+**Contact:** dsmith@citytech.cuny.edu
 
----
-### Current Assignment
-
-Update this section each week with a link to the active assignment (see `assignments/`) and any relevant due dates or forms.
-
-### Prior Assignments
-
-As each week's assignment is completed, move a short summary/link here (or simply point to the corresponding `assignments/weekNN/` folder) so the *Current Assignment* section above stays focused on active work.
+MTEC 3501 guides students through the development of a Culmination Project that will continue into ENT 4501. The course emphasizes iterative speculation, research, design, production, documentation, presentation, and assessment.
 
 ---
 
-## Quick Start (students)
+## Current Class / Assignment
 
-The course Quick Start and Git workflow have moved to: [documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md)
+### Week 1 — Course Launch
 
-For comprehensive onboarding (GitHub account & Desktop, Zotero Desktop, Discord, Google Drive, VS Code) see the Week 1 onboarding below.
+Week 1 is a guided online class.
 
----
+Begin working through the Week 1 sequence during our regularly scheduled class period. Continue independently during the week and complete all required Week 1 activities before our next face-to-face class.
 
-## Getting Started (accounts & tools)
+**[Begin the First Week Class](./assignments/week01/README.md)**
 
-All new students must complete **Week 1 Onboarding** before proceeding:
-
-- **[assignments/week01/01_Onboarding.md](assignments/week01/01_Onboarding.md)** — Complete platform and application setup (GitHub, Zotero, Discord, Google, VS Code)
-- [documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md) — Git workflow and repository navigation
+As the semester continues, this section will be updated to point directly to the current week's class activities and assignments.
 
 ---
 
-## Repository Map (key folders)
+## Course Development Framework
 
-- `assignments/` — weekly assignments and deliverables index (student-facing)
-- `lesson plans/` — faculty-facing lesson materials
-- `documents-Class/` — syllabus, support materials, and course docs
-- `projects/` — student project folders (one per student), for classes using the shared-repository workflow
-- `assets/` — images and media used in examples and templates
+Projects in MTEC 3501 develop through the following iterative framework:
 
-Useful links:
+> **Speculate → Research → Design → Make/Produce → Present/Publish → Assess**
 
-- Assignments index: [assignments/README.md](assignments/README.md)
- - [Generic Markdown Syllabus](documents-Class/Syllabus_MTEC3501.md) — update the semester configuration before distribution
- - Official syllabus: [update link per semester]
+These stages are not rigid compartments. Speculation continues during research; research continues during design and production; assessment can cause a project to return to earlier stages.
 
-
-## Weekly Update
-
-Weekly assignments and deliverables live in the `assignments/` folder. For Week 1, see:
-
-- [assignments/week01/README.md](assignments/week01/README.md) — Week 1 overview
-- [assignments/week01/01_Onboarding.md](assignments/week01/01_Onboarding.md) — Comprehensive onboarding guide
-- [assignments/week01/01_Speculative_Reflection_Assignment.md](assignments/week01/01_Speculative_Reflection_Assignment.md) — First reflection assignment
+During the opening weeks of the course, we will deliberately remain primarily within the **Speculate** phase while beginning exploratory research.
 
 ---
 
-## Course Overview
+## Project Scale
 
-MTEC 3501 prepares you for your culmination project in the BTech program. You will progress through Research → Design → Production Planning → Assessment, with emphasis on proposal development, precedent research, milestone planning, and juried presentations.
+Throughout the course, we will distinguish among three different scales of the Culmination Project:
+
+### North Star Vision — NSV
+
+The broadest intellectual, creative, technical, experiential, and cultural universe of the project.
+
+### Minimum Viable Product — MVP
+
+The minimum meaningful realization of the project that still fulfills its essential purpose.
+
+### Proof of Concept — PoC
+
+The focused demonstration developed during MTEC 3501 to investigate feasibility, complexity, technical challenges, and readiness to continue into ENT 4501.
+
+These definitions will evolve as projects develop.
+
+---
+
+## Course Platforms
+
+Different systems are used for different parts of the course.
+
+### Brightspace
+
+The official City Tech course portal.
+
+Brightspace is used for:
+
+- official announcements
+- grades
+- private student information
+- official course records
+- links into current course activities
+
+### GitHub
+
+Our primary project-development and project-management environment.
+
+GitHub is used for:
+
+- individual student repositories
+- project documentation
+- Issues
+- Projects
+- development history
+- selected course discussions and peer feedback
+
+Each student will create a **new individual MTEC 3501 repository from the provided Student Project Repository Template**.
+
+### Zotero
+
+Our research-management environment.
+
+Zotero is used for:
+
+- precedent research
+- bibliographic records
+- research collections
+- shared course research
+
+### Discord
+
+Our informal class communication environment.
+
+Discord is used for:
+
+- conversation
+- questions
+- peer communication
+- troubleshooting
+- sharing discoveries and resources
+
+### Google
+
+Google tools are used selectively for:
+
+- forms
+- shared documents
+- collaborative activities
+- selected onboarding information
+
+---
+
+## Quick Start
+
+New students should begin with the current Week 1 class rather than attempting to configure the repository independently.
+
+### [Begin Week 1](./assignments/week01/README.md)
+
+Supporting Git and repository-navigation material is available here:
+
+[documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md)
+
+---
+
+## Repository Map
+
+### `assignments/`
+
+Student-facing weekly activities, assignments, and deliverables.
+
+[Assignments Index](assignments/README.md)
+
+### `lesson plans/`
+
+Instructor-facing lesson plans and course-development material.
+
+### `documents-Class/`
+
+Syllabus, instructional resources, supporting documents, and course reference materials.
+
+### `assets/`
+
+Images, diagrams, media, and other resources used by course materials.
+
+### `projects/`
+
+Legacy/shared-project material from earlier versions of MTEC 3501.
+
+Individual students in the current course will primarily work within their own repositories created from the MTEC 3501 Student Project Repository Template.
+
+---
+
+## Course Roadmap
+
+The semester will move broadly through the following developmental milestones:
+
+> **Infrastructure Ready** *(Week 1)*  
+> ↓  
+> **Speculative Field** *(Weeks 1–3)*  
+> ↓  
+> **Research Grounding** *(Weeks 3–5)*  
+> ↓  
+> **Project Definition / Design Direction** *(Weeks 5–6)*  
+> ↓  
+> **PoC Production Plan** *(Week 6)*  
+> ↓  
+> **Midterm Jury Presentation** *(Weeks 7–8)*  
+> ↓  
+> **PoC Development** *(Weeks 8–11)*  
+> ↓  
+> **Presentation Readiness** *(Weeks 12–13)*  
+> ↓  
+> **Final Jury Presentation** *(Weeks 14–15)*  
+> ↓  
+> **Present / Publish / Assess** *(Week 15)*
+
+This is the **course roadmap**. For the full week-by-week breakdown, see the [Assignments Index](assignments/README.md).
+
+Students will create more detailed roadmaps for their individual projects later, after sufficient speculation, research, and design have occurred.
 
 ---
 
 ## Project Management
 
-We use GitHub Projects (Kanban/Roadmap), Issues, and Milestones for task tracking.
+We use GitHub Projects and Issues to document and manage project development.
 
-- Individual Projects: maintain a personal board in your `Projects/YourName` folder.
-- Group Projects: use the Class Kanban Board for shared tasks.
+During the first weeks, students will begin with a deliberately simple workflow and progressively add more sophisticated project-management methods as their projects become better defined.
 
-Peer feedback is tracked via issue comments and the `Proposal_Feedback.yml` template.
+Later course work may include:
 
----
+- Issues
+- task decomposition
+- milestones
+- estimated completion times
+- dependencies
+- GitHub Project views
+- Roadmaps
+- project documentation
+- peer feedback
 
-## Assignments & Deliverables
-
-Assignments are released weekly and tied to the syllabus.
-
-Key deliverables include:
-
-- Proposal Package (issue + markdown)
-- Precedent Research (2–3 pages + Zotero entry)
-- Milestone & Timeline (GitHub Projects/Roadmap)
-- Juried Presentations (checkpoints and final)
-- Proof-of-Concept Prototype (early demo)
-- Post-Presentation Analysis (reflection + adjustments)
+Detailed project planning should emerge from speculation, research, and design rather than prematurely constraining the project.
 
 ---
 
-## AI Collaboration Reporting
+## Research and Documentation
 
-All major deliverables require a short AI-use report: prompts, tools, and a brief reflection on AI's influence.
+Students maintain ongoing records of both project development and research.
+
+### Project Repository
+
+Documents the developing project, decisions, tasks, experiments, revisions, and progress.
+
+### Project Log
+
+Maintains a chronological record of work, discoveries, problems, decisions, and next steps.
+
+### Zotero
+
+Maintains the research and precedent record supporting the project.
+
+Together, these form an evolving record of the student's Culmination development process.
 
 ---
 
-## Resources
+## Artificial Intelligence
 
-- [Assignments Index](assignments/README.md)
-- [Lesson Plans (faculty only)](lesson%20plans/)
+MTEC 3501 includes AI literacy because contemporary emerging-media practice increasingly involves artificial intelligence and related computational systems.
+
+Students are **not required to incorporate AI into their individual Culmination Projects**.
+
+When AI systems are used in project development, students should document their use appropriately and critically evaluate their influence on the work.
 
 ---
 
-## Weekly Assignment Template
+## Syllabus
 
-Use this pattern in each `assignments/weekNN/` folder, and link it from the *Current Assignment* section above:
+[Current MTEC 3501 Syllabus](documents-Class/Syllabus_MTEC3501.md)
 
-**Link to assignment documents:** `assignments/weekNN/NN_assignment_name.md`
+The syllabus is the official reference for course requirements, grading, policies, and semester expectations.
 
-**Description:** Summarize the task, expected artifacts, and due date.
+---
 
-Where a class discussion board is used (e.g. a "Brainstorm" thread), create it early in the week and link it here so students can see and respond to each other's posts.
+## Prior Classes and Assignments
 
-Where shared class documents (e.g. Google Docs) are used for in-class collaborative work, link them here per semester.
+As the semester progresses, links to completed weekly activities will be collected here so that the **Current Class / Assignment** section at the top of this page remains focused on the work students should be doing now.
+
+*Week 1 begins here:*  
+[Week 1 — Course Launch](./assignments/week01/README.md)
