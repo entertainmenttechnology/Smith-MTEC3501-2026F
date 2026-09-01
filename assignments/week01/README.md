@@ -18,7 +18,7 @@ Read the [course README](../../README.md) for an orientation to the course, its 
 
 Create or verify your Discord account and join the class server.
 
-**Invitation link:** [DISCORD INVITE LINK TBD]
+**Invitation link:** https://discord.com/invite/9qSjqDKWyB
 
 - Set a recognizable course nickname (First Name Last Name or equivalent).
 - Find the Week 1 channel and post your response to the opening prompt:
