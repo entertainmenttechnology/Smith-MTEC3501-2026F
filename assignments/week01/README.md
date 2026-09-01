@@ -84,15 +84,17 @@ These definitions are provisional. You will refine them throughout the course.
 
 Create a new repository from the Student Project Repository Template:
 
-**Template:** [STUDENT TEMPLATE LINK TBD]
+**Template:** https://github.com/entertainmenttechnology/MTEC3501-Student-Template
 
 - Use **"Use this template"** — do not fork or clone the template itself.
-- Name your repository clearly (e.g., `MTEC3501-YourName-2026F`).
+- Name your repository clearly: `MTEC3501-<your-github-username>-2026F` (e.g., `MTEC3501-smith-david-2026F`).
 - Set visibility to **Public**.
+
+For complete, explicit step-by-step directions (including troubleshooting), see [1.0a Clone Student Template](1.0a_Clone_Student_Template.md).
 
 ### 6d. Clone your repository locally
 
-Clone your new personal repository to your computer using VS Code or GitHub Desktop.
+Clone your new personal repository to your computer using VS Code or GitHub Desktop. See [1.0a Clone Student Template](1.0a_Clone_Student_Template.md) for full directions.
 
 ### 6e. Open in VS Code
 
