@@ -22,7 +22,7 @@ Update this section for each semester.
 - **Instructor email:** [Email]
 - **Office hours and location:** [Office hours/location or appointment instructions]
 - **Class repository:** [URL to the current semester class repository]
-- **Student repository template:** https://github.com/entertainmenttechnology/MTEC3501-Student-Template
+- **Student repository template:** [MTEC3501-Student-Template](https://github.com/entertainmenttechnology/MTEC3501-Student-Template)
 - **Discord server:** [Current invitation link and server instructions]
 - **Zotero group library:** [Invitation/access instructions]
 - **Google Drive and shared documents:** [Current course materials link]
@@ -134,17 +134,23 @@ Students must have access to:
 
 Account identifiers may be requested for onboarding. Students should never submit passwords, authentication codes, or other secrets.
 
-### 6.2 Student Repository Expectations
+### 6.2 Week 1 Course Launch
+
+Students begin the course by completing the ordered [Week 1 Course Launch Checklist](../assignments/week01/1.0_Week01_Class_Session.md). The checklist establishes accounts and tools, creates each student's personal repository from the course template, introduces the course framework, and identifies the required Week 1 assignments.
+
+The Initial Speculation Google Form records the student's pre-framework project idea. After creating and cloning their personal repository, students record their Week 1 framework responses in `docs/speculation/01_Initial_Project_Speculation.md`. This document remains in the student repository as part of the project's developing record.
+
+### 6.3 Student Repository Expectations
 
 The student repository should preserve the development history of the project through meaningful commits and organized documentation. Students should use Issues and Projects to track work, labels to identify project phases or task types, milestones to group goals, and branches or Pull Requests when those tools support the project.
 
 The repository should distinguish working material from selected formal deliverables. The final submission package belongs in `/deliverables/final/`, while the complete working history remains in the repository's documentation and project files.
 
-### 6.3 Zotero Expectations
+### 6.4 Zotero Expectations
 
 Students should accept the instructor's invitation to the course Zotero group library. The shared library may contain class materials and common references. Each student should create and maintain a clearly named personal collection within the group library for their own project research, following the citation and annotation requirements of the assignments.
 
-### 6.4 Discord and Google Expectations
+### 6.5 Discord and Google Expectations
 
 Discord is used for informal communication, reminders, questions, and community interaction. Official requirements and due dates remain in the syllabus, assignments, and class repository.
 
