@@ -1,30 +1,31 @@
 # MTEC 3501 — Culmination Project Development
 
-> **Template syllabus:** Replace every bracketed field before distributing this document for a specific semester. The current semester's syllabus is the authoritative version for dates, policies, and section details.
+> **Fall 2026 syllabus:** This document is the authoritative reference for course dates, policies, requirements, and section details.
 
 ## 1. Course Information
 
 **Institution:** New York City College of Technology (City Tech)  
 **Department:** Entertainment Technology  
 **Course:** MTEC 3501 — Culmination Project Development  
-**Section:** [Section]  
+**Section:** H01  
+**Class Number:** 13831  
 **Credits:** 3  
-**Mode of Instruction:** [In person / Online / Hybrid synchronous]  
-**Meeting Schedule:** [Days, times, and room or online meeting details]  
-**Semester:** [Semester and year]  
+**Mode of Instruction:** In person  
+**Meeting Schedule:** Thursdays, 2:30 PM–5:00 PM, Library LG38  
+**Semester:** Fall 2026 (August 28–December 21, 2026)  
 **Prerequisites:** completion of two semesters of ENT3106 Technical Production  
 
 ### 1.1 Current Semester Configuration
 
-Update this section for each semester.
+This section identifies the active course systems and instructor information for Fall 2026.
 
-- **Instructor:** [Name]
-- **Instructor email:** [Email]
+- **Instructor:** David B. Smith
+- **Instructor email:** [dsmith@citytech.cuny.edu](mailto:dsmith@citytech.cuny.edu)
 - **Office hours and location:** [Office hours/location or appointment instructions]
-- **Class repository:** [URL to the current semester class repository]
+- **Class repository:** [Smith-MTEC3501-2026F](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026F)
 - **Student repository template:** [MTEC3501-Student-Template](https://github.com/entertainmenttechnology/MTEC3501-Student-Template)
-- **Discord server:** [Current invitation link and server instructions]
-- **Zotero group library:** [Invitation/access instructions]
+- **Discord server:** [MTEC 3501 Discord server](https://discord.gg/9qSjqDKWyB)
+- **Zotero group library:** [MTEC 3501 Zotero Library](https://www.zotero.org/groups/5864194/mtec-3501)
 - **Google Drive and shared documents:** [Current course materials link]
 
 ## 2. Course Description
@@ -148,7 +149,7 @@ The repository should distinguish working material from selected formal delivera
 
 ### 6.4 Zotero Expectations
 
-Students should accept the instructor's invitation to the course Zotero group library. The shared library may contain class materials and common references. Each student should create and maintain a clearly named personal collection within the group library for their own project research, following the citation and annotation requirements of the assignments.
+Students create or verify a Zotero account, install Zotero Desktop and the Zotero Connector, and submit their Zotero handle during onboarding. The instructor then sends access to the [MTEC 3501 Zotero Library](https://www.zotero.org/groups/5864194/mtec-3501). Students should accept the invitation and create a clearly named personal collection within the shared library for their project research, following the citation and annotation requirements of the assignments.
 
 ### 6.5 Discord and Google Expectations
 
@@ -263,4 +264,4 @@ The schedule is maintained separately in [`MTEC3501-class-schedule.md`](MTEC3501
 
 | Date | Revision | Author |
 |---|---|---|
-| [YYYY-MM-DD] | Initial semester adaptation from the generic syllabus | [Name] |
+| 2026-09-02 | Adapted syllabus for Fall 2026, Section H01 | David B. Smith |
