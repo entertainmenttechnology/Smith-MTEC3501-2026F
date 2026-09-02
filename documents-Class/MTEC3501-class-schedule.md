@@ -10,8 +10,8 @@ Complete the modality and date fields after the Fall 2026 meeting calendar is fi
 | 4 | [Modality] | [Date] | Precedent research and citation practices; Zotero integration; link citations in GitHub Markdown | Research summary uploaded |
 | 5 | [Modality] | [Date] | Mediation pathways in practice; diagram project environment; upload diagrams and images to GitHub | Mediation pathway diagram committed |
 | 6 | [Modality] | [Date] | Early production planning and milestone definition; collaborative AI in prototyping; GitHub milestones | Production-plan and milestone work begun |
-| 7 | [Modality] | [Date] | Midpoint peer and adjudication feedback on proposals; feedback templates and Issue comments | Oral presentation of current project state |
-| 8 | [Modality] | [Date] | Prototyping tools and mockups; GitHub branching and merging workflows | Prototype plan or early mockup documented |
+| 7 | [Modality] | [Date] | Mid-semester juried project presentations, first session; peer and adjudication feedback; feedback templates and Issue comments | Juried oral presentations; detailed PoC design documentation, milestones, timeline, and trial/test-bed evidence submitted |
+| 8 | [Modality] | [Date] | Complete remaining mid-semester juried presentations as needed; prototyping tools and mockups; apply jury feedback; GitHub branching and merging workflows | Remaining juried oral presentations as needed; prototype plan or early mockup documented; feedback recorded in Issues |
 | 9 | [Modality] | [Date] | Documentation and reflective AI use; Pull Requests and code review | Draft documentation artifacts: timeline, budget, and design notes |
 | 10 | [Modality] | [Date] | Iterative design and project management; GitHub Projects and roadmaps | Project board and roadmap updated |
 | 11 | [Modality] | [Date] | Technical prototyping; advance the Proof of Concept; asset versioning and workflow tracking | Proof of Concept development documented |
