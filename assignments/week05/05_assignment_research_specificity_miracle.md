@@ -12,7 +12,7 @@ This week, the goal is to consolidate the core work from recent assignments into
 - refine your Make It Specific document,
 - identify and articulate your miracle questions / unknowns.
 
-Together, these will support proposal writing, milestone planning, and March 17 presentation preparation.
+Together, these will support proposal writing, milestone planning, and Week 7 mid-semester juried-presentation preparation.
 
 ---
 
@@ -108,7 +108,7 @@ This organized collection will be used as source material for:
 
 - your written proposal development
 - your bibliography
-- your March 17 presentation preparation
+- your Week 7 mid-semester juried-presentation preparation
 
 ### B. Make It Specific Revision (required)
 

@@ -93,7 +93,7 @@ This document becomes:
 - The foundation for your Zotero research structure
 - The basis for precedent and technical research
 - The anchor for GitHub issue planning
-- The core framing for the March 17 adjudication
+- The core framing for the Week 7 mid-semester juried presentation
 
 You are building the architectural foundation of your project.
 

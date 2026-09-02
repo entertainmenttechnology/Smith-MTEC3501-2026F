@@ -35,9 +35,9 @@ This comment becomes your hub. Other students will respond to this comment with 
 
 ### 2. Create Your Own Working Document
 
-Create a document called **"Brainstorming_1_[YourName]"** (e.g., "Brainstorming_1_Smith_David") and work wherever you are most comfortable — this can be a Google Doc, Markdown file, notebook, or any format that suits your thinking process. 
+Create a document called **"Brainstorming_1_[YourName]"** (e.g., "Brainstorming_1_Smith_David") and work wherever you are most comfortable — this can be a Google Doc, Markdown file, notebook, or any format that suits your thinking process.
 
-(This is version 1, as there may be additional iterations later. Eventually, this document will be uploaded to your GitHub project folder for archival.)
+(This is version 1, as there may be additional iterations later. Commit the document to your personal GitHub repository for archival.)
 
 ---
 

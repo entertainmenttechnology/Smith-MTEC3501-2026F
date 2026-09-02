@@ -24,16 +24,16 @@ This document tracks GitHub skills and workflows introduced each week throughout
 ## Week 2: Basic Repository Operations
 **Skills:**
 - Branch from main
-- Create project folder structure
-- Create and edit README.md files
+- Create and use a personal development branch
+- Create and edit README.md files in the personal repository
 - Upload documentation to repository
 - Basic Markdown formatting
 
 **Deliverables:**
-- Personal project folder created
-- Branch created from main
-- README.md created in project folder
-- Brainstorming documentation uploaded
+- Personal repository created from the student template
+- Development branch created from main
+- README.md completed in the personal repository
+- Brainstorming documentation committed to the personal repository
 
 ---
 
@@ -55,16 +55,15 @@ This document tracks GitHub skills and workflows introduced each week throughout
 
 ## Week 4: Project Boards
 **Skills:**
-- Create Project Board
-- Add issues to Project Board
-- Organize issues by status/category
-- Link commits/PRs to issues
-- Track project progress on board
+- Connect research work to Issues
+- Organize Issues with labels and status
+- Link commits to Issues
+- Prepare Issue structure for a later Project Board
 
 **Deliverables:**
-- Project Board created
-- Research issues added to board
-- Board organized with appropriate columns
+- Research Issues created and labeled
+- Research work linked to Issues and commits
+- Issue structure ready for Project Board setup
 
 ---
 

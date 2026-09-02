@@ -2,9 +2,9 @@
 
 ## Research Structuring & Practice Presentation
 
-**Practice presentation date:** March 9 (in person, Room V103B)  
+**Practice presentation:** Week 6, during the scheduled class meeting  
 **Format:** 10-minute practice run + critique  
-**Purpose:** strengthen structure before the March 16 juried presentation
+**Purpose:** strengthen structure before the Week 7 mid-semester juried presentation
 
 For full panel requirements, refer to [02-Presentation Deliverables](../../documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md).
 
@@ -12,7 +12,7 @@ For full panel requirements, refer to [02-Presentation Deliverables](../../docum
 
 ## Quick Submission Checklist (Week 6)
 
-Before class on March 9, confirm all items below are in your GitHub project space:
+Before your Week 6 practice presentation, confirm all items below are in your personal repository:
 
 - [ ] Updated `README.md` that links major deliverables
 - [ ] Practice slide deck (Google Slides, PDF, or PPTX) linked from `README.md`
@@ -98,7 +98,7 @@ If research cannot be filtered or cannot be tied to a breakpoint action, it is m
 
 ---
 
-## Part II – Practice Presentation (March 9)
+## Part II – Practice Presentation (Week 6)
 
 This is a practice run of your juried presentation. It is not expected to be polished, but it must be structurally complete and specific.
 
@@ -150,7 +150,7 @@ The following links go to particular visualization software systems, but the inf
 
 Create a visual plan from **current state → final presentation**.
 
-Do not treat March 9 or March 16 as final endpoints. They should appear only as intermediate milestones in a longer build arc.
+Do not treat the Week 6 practice presentation or Week 7 jury presentation as final endpoints. They should appear only as intermediate milestones in a longer build arc.
 
 Your roadmap must include:
 
@@ -171,8 +171,8 @@ Map GitHub issues directly onto this roadmap.
 
 ## Submission Logistics (Week 6)
 
-- **Deadline:** before your in-class practice presentation on March 9
-- **Location:** your GitHub project folder/repository
+- **Deadline:** before your in-class Week 6 practice presentation
+- **Location:** your personal GitHub repository
 - **Required discoverability:** all major deliverables must be findable from `README.md`
 
 Required artifacts:
