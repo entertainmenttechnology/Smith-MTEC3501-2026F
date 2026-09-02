@@ -260,7 +260,7 @@ The schedule below identifies the planned sequence of topics and major deliverab
 
 | Week | Modality | Date | Topic | Assignments / Deliverables |
 | --- | --- | --- | --- | --- |
-| 1 | Zoom | 09/03 | Course launch; SRDMPA; project scales; project types and origins; Discord, GitHub, student-repository, VS Code, and Zotero onboarding | Complete the [Week 1 Course Launch](../assignments/week01/README.md); create and populate student repository; submit initial project concept |
+| 1 | Online | 09/03 | Course launch; SRDMPA; project scales; project types and origins; Discord, GitHub, student-repository, VS Code, and Zotero onboarding | Complete the [Week 1 Course Launch](../assignments/week01/README.md); create and populate student repository; submit initial project concept |
 | 2 | FTF | 09/10 | Structured brainstorming; GitHub and Zotero onboarding; precedent research methods; create a development branch; GitHub Issues and labels | Speculative Reflection completed; project repository updated; development branch created |
 | 3 | Zoom | 09/17 | Brainstorming strategies and idea generation; translate possibilities into GitHub Issues; issue templates and assignments | Repository updated with Issues and issue templates |
 | 4 | FTF | 09/24 | Precedent research and citation practices; Zotero integration; link citations in GitHub Markdown | Research summary uploaded |
