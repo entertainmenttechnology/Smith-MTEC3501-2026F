@@ -123,18 +123,6 @@ Google tools are used selectively for:
 
 ---
 
-## Quick Start
-
-New students should begin with the current Week 1 class rather than attempting to configure the repository independently.
-
-### [Begin Week 1](./assignments/week01/1.0_Week01_Class_Session.md)
-
-Supporting Git and repository-navigation material is available here:
-
-[documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md)
-
----
-
 ## Repository Map
 
 ### `assignments/`
