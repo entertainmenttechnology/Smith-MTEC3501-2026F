@@ -139,7 +139,7 @@ Account identifiers may be requested for onboarding. Students should never submi
 
 Students begin the course by completing the ordered [Week 1 Course Launch Checklist](../assignments/week01/1.0_Week01_Class_Session.md). The checklist establishes accounts and tools, creates each student's personal repository from the course template, introduces the course framework, and identifies the required Week 1 assignments.
 
-The Initial Speculation Google Form records the student's pre-framework project idea. After creating and cloning their personal repository, students record their Week 1 framework responses in `docs/speculation/01_Initial_Project_Speculation.md`. This document remains in the student repository as part of the project's developing record.
+The Initial Speculation Google Form records the student's pre-framework project idea. After creating and cloning their personal repository, students record their Week 1 framework responses in `docs/01_speculation/01_Initial_Project_Speculation.md`. This document remains in the student repository as part of the project's developing record.
 
 ### 6.3 Student Repository Expectations
 

@@ -2,7 +2,7 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
-## ➜ [LINK TO FIRST WEEK CLASS](./assignments/week01/README.md)
+## ➜ [Begin Week 1 Course Launch](./assignments/week01/1.0_Week01_Class_Session.md)
 
 **Term:** Fall 2026  
 **Instructor:** David B. Smith  
@@ -20,7 +20,7 @@ Week 1 is a guided online class.
 
 Begin working through the Week 1 sequence during our regularly scheduled class period. Continue independently during the week and complete all required Week 1 activities before our next face-to-face class.
 
-**[Begin the First Week Class](./assignments/week01/README.md)**
+**[Begin the Week 1 Course Launch Checklist](./assignments/week01/1.0_Week01_Class_Session.md)**
 
 As the semester continues, this section will be updated to point directly to the current week's class activities and assignments.
 
@@ -127,7 +127,7 @@ Google tools are used selectively for:
 
 New students should begin with the current Week 1 class rather than attempting to configure the repository independently.
 
-### [Begin Week 1](./assignments/week01/README.md)
+### [Begin Week 1](./assignments/week01/1.0_Week01_Class_Session.md)
 
 Supporting Git and repository-navigation material is available here:
 
@@ -258,4 +258,4 @@ The syllabus is the official reference for course requirements, grading, policie
 As the semester progresses, links to completed weekly activities will be collected here so that the **Current Class / Assignment** section at the top of this page remains focused on the work students should be doing now.
 
 *Week 1 begins here:*  
-[Week 1 — Course Launch](./assignments/week01/README.md)
+[Week 1 Course Launch Checklist](./assignments/week01/1.0_Week01_Class_Session.md)
