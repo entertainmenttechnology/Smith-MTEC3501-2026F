@@ -21,7 +21,7 @@ This section identifies the active course systems and instructor information for
 
 - **Instructor:** David B. Smith
 - **Instructor email:** [dsmith@citytech.cuny.edu](mailto:dsmith@citytech.cuny.edu)
-- **Office hours and location:** [Office hours/location or appointment instructions]
+- **Office hours and location:** M, T, 2:00 - 3:00 and by appointment or drop in (at your own risk!)
 - **Class repository:** [Smith-MTEC3501-2026F](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026F)
 - **Student repository template:** [MTEC3501-Student-Template](https://github.com/entertainmenttechnology/MTEC3501-Student-Template)
 - **Discord server:** [MTEC 3501 Discord server](https://discord.gg/9qSjqDKWyB)
