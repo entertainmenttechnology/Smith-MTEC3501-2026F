@@ -2,11 +2,13 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
-## ➜ [Begin Week 1 Course Launch](./assignments/week01/1.0_Week01_Class_Session.md)
+**[Read the MTEC 3501 Syllabus](documents-Class/Syllabus_MTEC3501.md)**
 
 **Term:** Fall 2026  
 **Instructor:** David B. Smith  
 **Contact:** dsmith@citytech.cuny.edu
+
+## ➜ [Begin Week 2 Assignment](./assignments/week02/README.md)
 
 MTEC 3501 guides students through the development of a Culmination Project that will continue into ENT 4501. The course emphasizes iterative speculation, research, design, production, documentation, presentation, and assessment.
 
@@ -14,13 +16,39 @@ MTEC 3501 guides students through the development of a Culmination Project that 
 
 ## Current Class / Assignment
 
-### Week 1 — Course Launch
+### Week 2 — Speculative Brainstorming and Project Setup
 
-Week 1 is a guided online class.
+Week 2 focuses on applying brainstorming techniques to expand the conceptual space of your project idea and providing peer feedback to classmates.
 
-Begin working through the Week 1 sequence during our regularly scheduled class period. Continue independently during the week and complete all required Week 1 activities before our next face-to-face class.
+**Next class:** September 17, 2026 — face-to-face (FTF)
+
+**[2.1 Speculative Brainstorming Expansion](./assignments/week02/2.1_Speculative_Brainstorming_Expansion.md)**
+
+This assignment has three parts:
+
+- **Setup:** Create a Discussion Board comment with your project snapshot and any relevant links
+- **Part 1:** Apply all brainstorming techniques to your own project in a private working document
+- **Part 2:** Provide peer brainstorming feedback to classmates using different techniques
+
+**[2.2 Research and Project Setup](./assignments/week02/2.2_Research_and_Project_Setup.md)**
+
+Complete Zotero shared-library setup, create your project research collection, and add an initial source. Creating your first GitHub Issue and Project Board is optional for now.
+
+**Support materials:**
+
+- [Brainstorming Techniques Guide](./documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)
+- [Student Brainstorming Setup](./documents-Class/02_Brainstorming/02_Student_Brainstorming_Setup.md)
+
+**Due:** Week 3
+
+<details>
+<summary>Previous assignment: Week 1 Course Launch</summary>
+
+Week 1 was a guided online class. Complete the sequence below if you still need to finish the course launch activities.
 
 **[Begin the Week 1 Course Launch Checklist](./assignments/week01/1.0_Week01_Class_Session.md)**
+
+</details>
 
 As the semester continues, this section will be updated to point directly to the current week's class activities and assignments.
 
