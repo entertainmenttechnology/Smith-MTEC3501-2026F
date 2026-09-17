@@ -83,6 +83,30 @@ Update the repository link if you create a new map or move the project to
 a different Coggle document. Make sure the sharing permissions allow the
 instructor and assigned collaborators to access the map.
 
+Also add both collaboration links to your assigned GitHub Discussion post:
+
+- the link to your current mind map;
+- the link to the repository document where you recorded the map.
+
+The Discussion post and the mind map are the two ways classmates will find
+and contribute to your current project thinking.
+
+### Mind Map Sharing Options
+
+Use Coggle's share settings to make the map available to the instructor and
+classmates. For the live and asynchronous activity, collaborators need a
+permission level that allows them to add ideas, if Coggle offers that
+option for your account. Do not enable public editing if you are not
+comfortable with it; use the course-approved sharing setting or work with
+the instructor.
+
+If a shareable collaborative map is not available, export the current map
+as an image or PDF and commit it to your repository. Record the file path
+in the Discussion post and repository document. During collaboration, the
+map owner can keep the Coggle map open and add classmates' contributions,
+or classmates can annotate the exported copy according to the instructor's
+directions.
+
 ### Example
 
 ![Initial Clamorous E.L.F. mind map](../../assets/images/Clamorous_E_L_F-MindMapStart.png)
@@ -288,6 +312,25 @@ The project owner keeps the map link recorded in their repository and
 remains responsible for capturing contributions. Asynchronous
 collaborators should add ideas without deleting or reorganizing existing
 branches.
+
+### Required Classmate Contributions
+
+Each student must contribute to **every other student's project**. A
+contribution may be made during a live rotation or asynchronously, but it
+must be substantive and use a named Brainstorming Card operation.
+
+For each classmate:
+
+- open the classmate's assigned Discussion post;
+- follow the current mind-map link or repository fallback;
+- add at least one new idea, connection, contradiction, or question;
+- identify the Brainstorming Card operation used; and
+- record the contribution in the classmate's map or Discussion thread as
+      directed by the project owner.
+
+Do not evaluate, rank, or delete another student's ideas. If a map cannot
+be accessed, notify the project owner and instructor rather than silently
+counting the contribution as complete.
 
 ------------------------------------------------------------------------
 
@@ -521,3 +564,13 @@ project.
 It is to leave with a **larger, stranger, more complicated, and
 potentially more interesting possibility space than the one you entered
 with**.
+
+## Submission and Participation Check
+
+- [ ] Initial mind-map snapshot preserved
+- [ ] Current Coggle link or exported map recorded in the repository
+- [ ] Both the map link and repository link added to the Discussion post
+- [ ] Three live collaboration rotations completed when possible
+- [ ] Every classmate's project received a substantive contribution
+- [ ] Questions and Unknowns were added to the required branch
+- [ ] Expanded map reviewed without deleting brainstorming material
