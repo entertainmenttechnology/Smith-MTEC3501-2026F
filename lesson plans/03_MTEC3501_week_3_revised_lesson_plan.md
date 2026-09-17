@@ -20,6 +20,38 @@ By the end of this session, students will:
 
 ## 🕒 Class Agenda (150 Minutes)
 
+### ⚪ Opening Checklist – Week 2 Readiness (10 min)
+
+Before beginning directed brainstorming, students quickly confirm the
+following. This is a readiness check, not a reason to delay the activity.
+Students who are missing an item should mark it as a blocker, ask for help,
+and continue with the work they can complete today.
+
+#### Speculative Brainstorming
+
+- [ ] GitHub Discussion post created with project snapshot
+- [ ] Personal brainstorming document created
+- [ ] Brainstorming techniques applied to the student's own project
+- [ ] Required peer responses completed or in progress
+
+#### Zotero and Research Setup
+
+- [ ] Zotero account and handle confirmed
+- [ ] Access to the shared MTEC 3501 Zotero Library confirmed, or access issue recorded
+- [ ] Project research collection created
+- [ ] At least one project-relevant source added with a relevance note
+
+#### Today’s Directed Brainstorming
+
+- [ ] Coggle account created or access confirmed
+- [ ] Personal Coggle mind map ready to create
+- [ ] Shareable Coggle link can be recorded in the student repository
+
+Project tracking through Issues and Project Boards is deferred to next week.
+After the checklist, continue with the GitHub recap and project status
+activities below. The directed-brainstorming activity follows the setup and
+method-framing sections.
+
 ### 🟢 Part 1 – GitHub Web Recap and Upload (20 min)
 - Verify each student’s project folder exists in their branch
 - Students upload:
@@ -76,6 +108,8 @@ Introduce the idea that structured constraints often *increase* creativity by ma
 - The class participates collectively
 - The focused student listens and takes notes only
 - No defending, correcting, or narrowing during the exercise
+- Complete three live rotation slots; continue with additional pairings
+  asynchronously through the students' Coggle maps
 
 > Instructor framing to students:
 > *“We are not trying to solve your project today. We are testing tools and observing what kinds of insights they generate.”*
@@ -123,7 +157,9 @@ Each student is paired with **one technique**. Timing guideline: ~3–4 minutes 
 
 #### 5️⃣ Forced Juxtaposition
 **Prompt:**
-- Combine the project with two unrelated concepts provided by the instructor
+- Generate one unrelated word using the Random Word Generator or an
+  instructor-provided word list
+- Combine the project with that word
 
 **Good for:** interdisciplinary connections; novelty
 

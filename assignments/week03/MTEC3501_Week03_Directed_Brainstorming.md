@@ -169,60 +169,48 @@ ideas that did not exist when the exercise began.
 
 ## The Process
 
-### 3. Draw
+### 1. Present
+
+The project owner briefly explains their project and current mind map.
+
+Aim for approximately **one minute**. The purpose is to provide enough
+context to begin exploring, not to defend or completely explain the
+project.
 
 ### 2. Look
 
 The brainstormer examines the project owner's current mind map.
 
-Notice what is already there.
-Draw the card **before** choosing an area of the map. Four physical decks
-are sufficient for the current class: place one deck with each working
-group and return the card after the encounter. If a deck is unavailable,
-use the d12 alternative.
-Notice what has grown.
+Notice what is already there, what has grown, questions and uncertainties,
+unusual or contradictory branches, and ideas contributed during previous
+encounters.
+
+### 3. Draw
+
+The brainstormer randomly draws a **Brainstorming Card** before choosing
+an area of the map. Alternatively, roll a 12-sided die; the number
+corresponds to one of the twelve operations below.
+
+Four physical decks are sufficient for the current class: place one deck
+with each working group and return the card after the encounter. If a deck
+is unavailable, use the d12 alternative.
+
 If the card genuinely cannot be applied after a good-faith attempt, the
 brainstormer may exchange it once. Do not exchange a card simply because
 the method seems difficult, absurd, or inconvenient; incompatibility may
 be productive.
-Notice unusual or contradictory branches.
+
 ### 4. Choose
 
 The brainstormer chooses **something on the map to explore** using the
-selected operation.
-
-There is no requirement to choose a problem or a question. Any part of
-the project's current possibility space can become the starting point.
-
-### 5. Brainstorm
-Notice ideas contributed during previous encounters.
-The brainstormer applies the selected operation to the chosen area.
-### 3. Choose
-
-The brainstormer chooses **something on the map to explore**.
-
-There is no requirement to choose a problem or a question. Any part of
-the project's current possibility space can become the starting point.
-
-### 4. Draw
-
-The brainstormer randomly draws a **Brainstorming Card**.
-
-Alternatively, roll a 12-sided die. The number corresponds to one of the
-twelve brainstorming operations below.
-
-**No redraws.**
-
-If the selected method initially seems inappropriate, absurd, or
-impossible to apply to the chosen part of the project, try it anyway.
-
-The incompatibility may be productive.
+selected operation. There is no requirement to choose a problem or a
+question. Any part of the project's current possibility space can become
+the starting point.
 
 ### 5. Brainstorm
 
-The brainstormer applies the selected operation to the area they chose.
-
-The conversation can move beyond the original branch if new connections
+The brainstormer applies the selected operation to the chosen area. The
+conversation can move beyond the original branch if new connections
 emerge.
 
 The project owner may answer questions and clarify the current idea, but
@@ -230,9 +218,7 @@ should **not evaluate, defend against, reject, or explain away the
 possibilities being generated**.
 
 The brainstormer is not trying to tell the project owner what the
-project should become.
-
-The task is to **transform the possibility space**.
+project should become. The task is to **transform the possibility space**.
 
 ### 6. Capture Everything
 
@@ -285,6 +271,23 @@ while the project owner captures everything that emerges.
 Move to a new collaborator and repeat the process.
 
 The map remains open and continues accumulating material.
+
+### Asynchronous Continuation
+
+The live class activity uses **three rotation slots** so students can
+experience several different collaborators without spending the entire
+session in pair rotation. After class, continue the activity
+asynchronously through the Coggle maps.
+
+Use a planned set of new pairings so that students encounter additional
+classmates. For seven students, the asynchronous phase can complete the
+remaining pairings from the full six-person rotation as time allows. For a
+larger class, complete only the assigned subset of pairings.
+
+The project owner keeps the map link recorded in their repository and
+remains responsible for capturing contributions. Asynchronous
+collaborators should add ideas without deleting or reorganizing existing
+branches.
 
 ------------------------------------------------------------------------
 
@@ -379,6 +382,18 @@ The map remains open and continues accumulating material.
   ---------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
+
+# Random Words for Forced Juxtaposition
+
+When **FORCED JUXTAPOSITION** is drawn, generate one unrelated word
+before choosing the map area. Use the [Random Word Generator](https://randomwordgenerator.com/)
+or an instructor-provided word list and random number method.
+
+Use the first usable word generated. Do not keep generating words until
+one seems to fit the project. The tension between the word and the map is
+the point of the exercise. If the online generator is unavailable, the
+instructor can provide a word or roll a die to select a word from a
+prepared list.
 
 # Using the Cards
 
