@@ -8,7 +8,7 @@
 **Instructor:** David B. Smith  
 **Contact:** dsmith@citytech.cuny.edu
 
-## ➜ [Begin Week 2 Assignment](./assignments/week02/README.md)
+## ➜ [Begin Week 3 Assignments](./assignments/week03/03_assignment_speculation_to_research_transition_assignment.md)
 
 MTEC 3501 guides students through the development of a Culmination Project that will continue into ENT 4501. The course emphasizes iterative speculation, research, design, production, documentation, presentation, and assessment.
 
@@ -16,33 +16,42 @@ MTEC 3501 guides students through the development of a Culmination Project that 
 
 ## Current Class / Assignment
 
-### Week 2 — Speculative Brainstorming and Project Setup
+### Week 3 — Speculation to Research Transition
 
-Week 2 focuses on applying brainstorming techniques to expand the conceptual space of your project idea and providing peer feedback to classmates.
+This two-week assignment continues the brainstorming process and begins the transition into structured research. Quantity and range matter more than quality or feasibility at this stage.
 
-**Next class:** September 17, 2026 — face-to-face (FTF)
+**Primary assignment: [03 Speculation to Research Transition Assignment](./assignments/week03/03_assignment_speculation_to_research_transition_assignment.md)**
 
-**[2.1 Speculative Brainstorming Expansion](./assignments/week02/2.1_Speculative_Brainstorming_Expansion.md)**
+The assignment includes:
 
-This assignment has three parts:
+- Continued individual brainstorming using all techniques introduced in class
+- Discussion Board responses that add a new idea or perspective to every classmate's proposal
+- A reflection on themes, questions, surprises, and research needs emerging from the brainstorm
+- Zotero account, desktop application, browser connector, and course group-library setup
+- An **Inspirational Research** section analyzing relevant artistic, cultural, technical, or personal references
 
-- **Setup:** Create a Discussion Board comment with your project snapshot and any relevant links
-- **Part 1:** Apply all brainstorming techniques to your own project in a private working document
-- **Part 2:** Provide peer brainstorming feedback to classmates using different techniques
+**Included Week 3 activity: [Directed Brainstorming](./assignments/week03/MTEC3501_Week03_Directed_Brainstorming.md)**
 
-**[2.2 Research and Project Setup](./assignments/week02/2.2_Research_and_Project_Setup.md)**
-
-Complete Zotero shared-library setup, create your project research collection, and add an initial source. Creating your first GitHub Issue and Project Board is optional for now.
+The [Directed Brainstorming activity](./assignments/week03/MTEC3501_Week03_Directed_Brainstorming.md) provides the detailed procedure for Part 1 of this assignment. Create and preserve an initial Coggle mind map, expand it through the round-robin brainstorming process, and record the shareable map and repository link in your project materials. Directed Brainstorming is not a separate assignment; it is the included Part 1 activity.
 
 **Support materials:**
 
 - [Brainstorming Techniques Guide](./documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)
-- [Student Brainstorming Setup](./documents-Class/02_Brainstorming/02_Student_Brainstorming_Setup.md)
 
-**Due:** Week 3
+**Timeline:** Two weeks; the work leads into Week 7 presentation preparation.
 
 <details>
-<summary>Previous assignment: Week 1 Course Launch</summary>
+<summary>Previous Assignments</summary>
+
+### Week 2 — Speculative Brainstorming and Project Setup
+
+Week 2 focused on expanding the conceptual space of the project through structured brainstorming, peer feedback, Zotero setup, and initial research.
+
+- [Week 2 Assignment Overview](./assignments/week02/README.md)
+- [2.1 Speculative Brainstorming Expansion](./assignments/week02/2.1_Speculative_Brainstorming_Expansion.md)
+- [2.2 Research and Project Setup](./assignments/week02/2.2_Research_and_Project_Setup.md)
+
+### Week 1 — Course Launch
 
 Week 1 was a guided online class. Complete the sequence below if you still need to finish the course launch activities.
 
