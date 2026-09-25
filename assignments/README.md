@@ -50,8 +50,9 @@ Each week builds toward your **end-of-semester prototype (Proof of Concept)** an
 
 ## Week 5 Files
 
-- [Week 5 Assignment: Research Consolidation + Specificity + Miracle Questions](week05/05_assignment_research_specificity_miracle.md)
-- [Week 5 Supporting Document: Research Areas, Specificity, and Miracle Questions](week05/05_document_research_specificity_miracle.md)
+- [Week 5 Assignment: Project Infrastructure, Scope, and Research Consolidation](week05/05_assignment_week05.md)
+- [Week 5 Reference Guide](week05/05_document_week05_reference.md)
+- [Archived prior Week 5 material](week05/archive/) (superseded; kept for reference)
 
 ---
 

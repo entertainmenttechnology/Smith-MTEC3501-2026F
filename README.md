@@ -7,9 +7,9 @@
 **Term:** Fall 2026  
 **Instructor:** David B. Smith  
 **Contact:** dsmith@citytech.cuny.edu  
-**Zoom Meeting INfo** 649-104-8253 passcode 'Advise'. 
+**Zoom Meeting Info:** [Join Zoom Meeting](https://us02web.zoom.us/j/6491048253?pwd=dHlLcE9TR1pDeEhSSC83c2xjenlpUT09) • Meeting ID 649-104-8253 • Passcode `Advise`
 
-## ➜ [Begin Week 3 Assignments](./assignments/week03/03_assignment_speculation_to_research_transition_assignment.md)
+## ➜ [Begin Week 4 Assignments](./assignments/week04/README.md)
 
 MTEC 3501 guides students through the development of a Culmination Project that will continue into ENT 4501. The course emphasizes iterative speculation, research, design, production, documentation, presentation, and assessment.
 
@@ -17,32 +17,29 @@ MTEC 3501 guides students through the development of a Culmination Project that 
 
 ## Current Class / Assignment
 
-### Week 3 — Speculation to Research Transition
+### Week 4 — Precedent Research, Detailed Proposal, and GitHub/Zotero Setup
 
-This two-week assignment continues the brainstorming process and begins the transition into structured research. Quantity and range matter more than quality or feasibility at this stage.
+In class, all students created their first Issues, set up a GitHub Project Board (Kanban), and confirmed Zotero access. This week's work continues the detailed speculative proposal and precedent research, and puts that new infrastructure to use.
 
-**Primary assignment: [03 Speculation to Research Transition Assignment](./assignments/week03/03_assignment_speculation_to_research_transition_assignment.md)**
+**Primary assignment: [Week 4 Assignment Overview](./assignments/week04/README.md)**
 
 The assignment includes:
 
-- Continued individual brainstorming using all techniques introduced in class
-- Discussion Board responses that add a new idea or perspective to every classmate's proposal
-- A reflection on themes, questions, surprises, and research needs emerging from the brainstorm
-- Zotero account, desktop application, browser connector, and course group-library setup
-- An **Inspirational Research** section analyzing relevant artistic, cultural, technical, or personal references
+- [04a Make It Specific](./assignments/week04/04a_assignment_make_it_specific.md) — refine your project into a clear, specific, buildable description
+- [04b GitHub & Zotero Infrastructure Setup](./assignments/week04/04b_github_zotero_infrastructure_setup.md) — Issues, sub-issues, Kanban board, Discussions, `.gitignore`/`/src`, and Zotero sub-collection
 
-**Included Week 3 activity: [Directed Brainstorming](./assignments/week03/MTEC3501_Week03_Directed_Brainstorming.md)**
-
-The [Directed Brainstorming activity](./assignments/week03/MTEC3501_Week03_Directed_Brainstorming.md) provides the detailed procedure for Part 1 of this assignment. Create and preserve an initial Coggle mind map, expand it through the round-robin brainstorming process, and record the shareable map and repository link in your project materials. Directed Brainstorming is not a separate assignment; it is the included Part 1 activity.
-
-**Support materials:**
-
-- [Brainstorming Techniques Guide](./documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)
-
-**Timeline:** Two weeks; the work leads into Week 7 presentation preparation.
+**Note:** The next two class sessions (this week and next) are remote via Zoom — see the meeting info above.
 
 <details>
 <summary>Previous Assignments</summary>
+
+### Week 3 — Speculation to Research Transition
+
+This two-week assignment continued the brainstorming process and began the transition into structured research.
+
+- [03 Speculation to Research Transition Assignment](./assignments/week03/03_assignment_speculation_to_research_transition_assignment.md)
+- [Directed Brainstorming](./assignments/week03/03a_activity_directed_brainstorming.md)
+- [Brainstorming Techniques Guide](./documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)
 
 ### Week 2 — Speculative Brainstorming and Project Setup
 

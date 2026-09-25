@@ -4,9 +4,9 @@ Follow these steps to **fill out the Detailed Speculation Template**, **assign y
 
 ---
 
-## **Step 1: Access the GitHub Repository**
+## **Step 1: Access Your GitHub Repository**
 1. **Log in to GitHub** at [GitHub.com](https://github.com).
-2. Navigate to our class repository ****:  
+2. Navigate to your own individual repository (created from the MTEC 3501 Student Project Repository Template).
 
 
 ---
