@@ -1,4 +1,4 @@
-# MTEC 3501: March 16 Project Proposal Presentation – Deliverables
+# MTEC 3501: October 15, 22 Project Proposal Presentation – Deliverables
 
 ## Overview  
 

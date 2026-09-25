@@ -6,7 +6,8 @@
 
 **Term:** Fall 2026  
 **Instructor:** David B. Smith  
-**Contact:** dsmith@citytech.cuny.edu
+**Contact:** dsmith@citytech.cuny.edu  
+**Zoom Meeting INfo** 649-104-8253 passcode 'Advise'. 
 
 ## ➜ [Begin Week 3 Assignments](./assignments/week03/03_assignment_speculation_to_research_transition_assignment.md)
 
