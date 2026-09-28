@@ -5,6 +5,7 @@ Copy this file into your individual project repository, then replace every brack
 ## Student / Team
 
 [Name of student or team]
+[Date]
 
 ## Working Title
 
