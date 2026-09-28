@@ -10,6 +10,8 @@ Week 4 has two parallel threads: sharpening the project idea itself, and setting
 
 Move your project from open-ended brainstorming into structural clarity: working title, format, one-sentence description, user/integrator experience, system description, and an explicit dependency.
 
+- [Make It Specific Template](../../documents-Class/04_Detailed_Speculative_Proposal/Make_It_Specific_Template.md) — copy this into your individual repository and complete it.
+
 - [Make It Specific — worked examples](../../documents-Class/04_Detailed_Speculative_Proposal/Make_It_Specific_Examples.md)
 
 ## Technical Assignment

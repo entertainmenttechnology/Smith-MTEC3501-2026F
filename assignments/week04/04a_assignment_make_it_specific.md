@@ -14,7 +14,7 @@ If your idea cannot be described clearly, it cannot be built.
 
 ## What You Must Submit
 
-You must complete the **Make It Specific Template** and submit it as a clean, formatted document (PDF or Markdown).
+Download and complete the [Make It Specific Template](../../documents-Class/04_Detailed_Speculative_Proposal/Make_It_Specific_Template.md). Copy the completed Markdown file into your individual project repository at `docs/01_speculation/02_Make_It_Specific.md`, then link to it from your repository README. The student repository template currently includes an Initial Project Speculation document, but not this Make It Specific worksheet.
 
 Your submission must include:
 
@@ -26,7 +26,7 @@ Your submission must include:
 6. System Description (operational, not abstract)
 7. Explicit Dependency
 
-Follow the template exactly.
+Follow the template's section order and requirements. Replace all bracketed prompts with your own content and remove the instructions from the finished document.
 
 ---
 
