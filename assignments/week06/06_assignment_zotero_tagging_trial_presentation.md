@@ -140,7 +140,7 @@ If a large leap remains, it is still a breakpoint.
 
 The following links go to particular visualization software systems, but the information they provide is universally applicable in many pieces of software.  
 
-[Shared tool-selection guide: Visualization Tools and Methods](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/resources/visualization_tools_and_methods.md) (MTEC 4502 repository access may be required.)
+[Shared tool-selection guide: Visualization Tools and Methods](https://github.com/entertainmenttechnology/Smith-ET-Teaching-Resources/wiki/Visualization-Tools-and-Methods)
 
 [Process Flowcharts (qflowbpm)](http://qflowbpm.com/en/process-flowcharts/)  
 [Project Plan (artlassian)](https://www.atlassian.com/blog/project-management/write-an-effective-project-plan)  
