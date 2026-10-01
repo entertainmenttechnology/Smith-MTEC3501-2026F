@@ -2,7 +2,7 @@
 📌 **Instructor Screen-Share:**  
 - Walk through the [Milestone Assignment](documents-Class/03_ProjectTracking/03-Structuring_Milestones_for_Presentation.md).  
 - Demonstrate breaking a project into **milestones & issues**.  
-- Introduce the [Project Proposal Presentation Guide](documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md) and review expectations.  
+- Introduce the [Midterm Project Presentation and Deliverables](02-Presentation_Deliverables.md) and review expectations.
 
 📌 **Discussion:**  
 - **Go to the discussion board "milestones"** for March 17.  

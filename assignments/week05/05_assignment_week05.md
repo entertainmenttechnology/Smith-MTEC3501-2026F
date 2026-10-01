@@ -10,11 +10,11 @@ In Week 4's class session, everyone created their first GitHub Issues, set up a 
 You are consolidating four threads at once:
 
 1. **Project infrastructure** — Issues, sub-issues, Project Board, Discussions, README
-2. **Scope** — North Star Vision, Least Viable Product, Proof of Concept
+2. **Scope** — Proof of Concept, Least Viable Product, North Star Vision
 3. **Specificity** — refining your Make It Specific document
 4. **Research** — Zotero consolidation and a research markdown document
 
-Everything here builds directly toward the Week 7/8 mid-semester juried presentation (see the [Syllabus](../../documents-Class/Syllabus_MTEC3501.md) for the confirmed date). Nothing needs to be finished — placeholders are fine where content isn't ready yet, as long as the structure exists.
+This work prepares you for the **Weeks 7–8 midterm expert-feedback presentation**. The purpose of that presentation is to explain your developing project and receive advice from industry experts, not to present a finished project or a completed Proof of Concept (PoC). See the [Midterm Project Presentation and Deliverables](../../documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md) for the presentation purpose and a suggested slide sequence. Use placeholders only for work that is genuinely still in progress; your revised Make It Specific document must contain no placeholders.
 
 For definitions, examples, and step-by-step mechanics for each part below, see the [Week 5 Reference Guide](05_document_week05_reference.md).
 
@@ -22,11 +22,11 @@ For definitions, examples, and step-by-step mechanics for each part below, see t
 
 ## Part 1 — GitHub Project Infrastructure
 
-### A. Issues and Sub-Issues for the Presentation Milestone
+### A. Issues and Sub-Issues for the Midterm Presentation
 
-- Create (or confirm) a **milestone** for the Week 7/8 presentation in your repository.
-- Break the presentation deliverables into **Issues**: 10-minute presentation, annotated bibliography, slide deck, speculative proposal, prototype plan.
-- Where a deliverable is large (e.g., the slide deck), break it into **sub-issues** (e.g., introduction, research & precedents, project breakdown, milestones, questions).
+- Create or update **Issues** for the Weeks 7–8 midterm expert-feedback presentation.
+- Break the work into **Issues** for the project description and scope, research bibliography, slide deck and experience visual, technology and competency reflection, roadmap, and questions for the experts. Use the [suggested slide sequence](../../documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md#suggested-slide-sequence) to identify the presentation content.
+- Where a deliverable is large, break it into **sub-issues** (for example, the slide deck could have issues for the Make It Specific experience, system explanation, research, scope, and next steps).
 - Apply labels that reflect the type of work. A suggested starting set, using the course's SRDMPA stages with a numbered prefix:
   - `01_speculative`, `02_research-precedent`, `02_research-inspirational`, `02_research-technical`, `02_research-resource`, `03_design`, `04_produce-make`, `05_present-publish`, `06_assess`
   - These labels don't exist in your repository by default — create them yourself (Issues → Labels → New label). Add more specific labels as needed.
@@ -34,7 +34,8 @@ For definitions, examples, and step-by-step mechanics for each part below, see t
 ### B. Kanban Project Board
 
 - Organize your Issues (including the ones created in class) into workflow columns: **Backlog, Ready, In Progress, In Review, Done**.
-- Every Issue tied to the presentation milestone should be visible on the board in the correct column.
+- Every Issue related to the presentation should be visible on the board in the correct column.
+- **Do not create the GitHub milestone yet.** In Week 6, use the [GitHub Milestone Activity](../week06/06_activity_github_milestone.md) to create the milestone and assign the prepared Issues to it. Week 8 will cover scheduling work with dates in the Project Roadmap.
 
 ### C. GitHub Discussions
 
@@ -54,11 +55,11 @@ For definitions, examples, and step-by-step mechanics for each part below, see t
 
 ## Part 2 — Define Your Three Scope Levels
 
-In your speculative proposal (stored in your repository, or linked from your README if it lives elsewhere), explicitly define:
+In your project proposal (stored in your repository, or linked from your README if it lives elsewhere), explicitly define these scopes, from the focused work this semester outward:
 
-1. **North Star Vision (NSV)** — the full, ambitious version of the project
-2. **Least Viable Product (LVP)** — what you'd consider a complete, worthwhile project at the end of ENT 4501
-3. **Proof of Concept (PoC)** — what you will actually build and demonstrate this semester
+1. **Proof of Concept (PoC)** — the focused demonstration you plan to build this semester to test an important part of the project. You should be able to describe it for the midterm presentation; it does not need to be built by then.
+2. **Least Viable Product (LVP)** — the minimum complete project you plan to develop in ENT 4501, the following course. Explain how this semester's PoC could inform it.
+3. **North Star Vision (NSV)** — the larger, aspirational direction of the project. It provides context for the LVP but is not a required build.
 
 These three levels should be clearly labeled and easy to find in your proposal document.
 
@@ -68,7 +69,7 @@ These three levels should be clearly labeled and easy to find in your proposal d
 
 ### A. Zotero
 
-Using the research you started in Week 3/4, organize your personal Zotero sub-collection (under the class Students folder) so it includes references from all three categories:
+Using the research you started in Week 3/4, organize your personal Zotero sub-collection (under the class Students folder) so it includes references from these three core categories:
 
 1. **Precedent Research**
 2. **Inspirational Research**
@@ -76,11 +77,14 @@ Using the research you started in Week 3/4, organize your personal Zotero sub-co
 
 Tag or organize entries clearly by category, and add annotations (item notes) where you have findings or follow-up questions.
 
+If your project depends on ethically usable assets or materials, you may also organize **resource research**. This category is relevant when needed; every project is not required to have resource sources.
+
 ### B. Research Markdown Document
 
 - Create a research markdown document in your repository (e.g., `docs/research.md`).
 - Link it from your README.
-- This document should summarize or bibliography-link your Zotero research and will grow into your annotated bibliography for the presentation.
+- Generate citations from Zotero and include them in this Markdown document, organized by research category. Zotero remains your source library; the Markdown file is the shareable bibliography in your project repository.
+- Include brief annotations or findings in the Markdown document, or link to relevant Zotero item notes. This document will grow into the annotated bibliography for the presentation.
 
 ---
 
@@ -96,6 +100,8 @@ Revise your **Make It Specific** document so it is clear, concrete, and internal
 6. Explicit dependency
 
 Remove vague placeholders and ensure your project can be understood by someone outside your team.
+
+Use the [Make It Specific Template](../../documents-Class/04_Detailed_Speculative_Proposal/Make_It_Specific_Template.md) and review the [Make It Specific Examples](../../documents-Class/04_Detailed_Speculative_Proposal/Make_It_Specific_Examples.md) as needed. This is a revision of the Week 4 document, not a new worksheet.
 
 **Clarification: What "Explicit Dependency" means**
 
@@ -123,7 +129,7 @@ Identify the key "miracle steps" in your project: places where major assumptions
 2. **Design / UX unknowns** (interaction clarity, user flow, usability)
 3. **Narrative / content unknowns** (meaning, coherence, communication)
 
-For each unknown, include one brief note on how you might investigate or test it. These are excellent candidates for your Discussion Board post in Part 1C.
+For each unknown, include one brief note on how you might investigate or test it. These are excellent candidates for your GitHub Discussions post in Part 1C.
 
 ---
 
@@ -131,21 +137,21 @@ For each unknown, include one brief note on how you might investigate or test it
 
 By next class, your repository should show:
 
-- [ ] Presentation milestone created, with Issues (and sub-issues where appropriate) covering each deliverable, labeled by SRDMPA/work type
+- [ ] Issues (and sub-issues where appropriate) created for the midterm expert-feedback presentation, labeled by SRDMPA/work type and visible on the Project board
 - [ ] Kanban board organized into Backlog / Ready / In Progress / In Review / Done
 - [ ] Discussions enabled, with at least one post (question/unknown/problem) and one peer reply
 - [ ] README updated with project description and links (proposal, research doc, Zotero)
-- [ ] Speculative proposal with NSV / LVP / PoC clearly defined
+- [ ] Project proposal with PoC / LVP / NSV clearly defined and distinguished
 - [ ] Zotero sub-collection organized across precedent, inspirational, and technical research
-- [ ] Research markdown document created and linked from the README
-- [ ] Revised Make It Specific document, with no placeholders
+- [ ] Zotero-generated bibliography in a research Markdown document, linked from the README, with annotations or links to Zotero notes
+- [ ] Revised Make It Specific document, using the Week 4 template structure and containing no placeholders
 - [ ] Miracle Questions list (technical, design/UX, narrative/content) with next-step notes
 
 ---
 
 ## A Preview: Agile Next Week
 
-Next class formally introduces an **Agile-style weekly workflow**: reporting your goals for the coming week, problems encountered in the last week, and current unknowns. The Discussion Board habit you're starting this week (Part 1C) is the foundation for that reporting rhythm — keep it up.
+Next class formally introduces an **Agile-style weekly workflow**: reporting your goals for the coming week, problems encountered in the last week, and current unknowns. The GitHub Discussions habit you're starting this week (Part 1C) is the foundation for that reporting rhythm — keep it up.
 
 ---
 

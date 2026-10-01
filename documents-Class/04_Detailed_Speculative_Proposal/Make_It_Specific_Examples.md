@@ -35,7 +35,6 @@ They are able to generate sound and movement that alters the environment.
 The system responds by transforming those inputs into evolving sonic textures and shifting visual patterns.  
 Over time, repeated interactions accumulate and subtly reshape the room’s atmosphere.  
 The intended experience is collective authorship and environmental transformation.  
-This depends on participants perceiving a clear cause–effect relationship between their actions and system behavior.
 
 ## System Description
 Microphones and depth cameras capture audio and gesture input.  
@@ -44,6 +43,29 @@ A mapping engine translates input data into audiovisual transformations.
 Outputs include multi-channel spatial audio and projection-mapped visuals.  
 Hardware includes speakers, projector, computing workstation, and sensor array.
 
+## Explicit Dependency
+Participants must perceive a clear cause-and-effect relationship between their actions and the system's response. If the response is too delayed or difficult to perceive, the sense of participation and collective authorship weakens.
+
+## Visualizing the Example
+
+These diagrams show two different views of the same project. The storyboard follows what a participant does and perceives; the system flow shows how the installation processes inputs and produces outputs. They are schematic examples, not implementation specifications.
+
+### Participant Experience Storyboard
+
+![Five illustrated storyboard panels showing a participant entering the installation, making a sound or movement, noticing the audiovisual response, trying another action, and seeing changes accumulate.](Make_It_Specific_Storyboard_Example.svg)
+
+The images show one possible user journey. The accompanying labels identify what the participant does and perceives; they are not a required script or a claim that every installation will behave this way.
+
+### System Input-to-Output Flow
+
+```mermaid
+flowchart LR
+	A["INPUT<br/>Sound and gesture"] -->
+	B["CAPTURE<br/>Microphones and depth cameras"] -->
+	C["PROCESS<br/>Max/MSP or TouchDesigner"] -->
+	D["MAP<br/>Translate input into audiovisual changes"] -->
+	E["OUTPUT<br/>Spatial audio and projection-mapped visuals"]
+```
 
 
 ---

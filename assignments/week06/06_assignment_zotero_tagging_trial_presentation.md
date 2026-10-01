@@ -6,7 +6,11 @@
 **Format:** 10-minute practice run + critique  
 **Purpose:** strengthen structure before the Week 7 mid-semester juried presentation
 
-For full panel requirements, refer to [02-Presentation Deliverables](../../documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md).
+For the upcoming expert-feedback presentation requirements, refer to [Midterm Project Presentation and Deliverables](../../documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md). The [Final Presentation and PoC Demonstration Deliverables](../../documents-Class/04_Detailed_Speculative_Proposal/03-Final-Presentation-Deliverables.md) describe the Week 15 presentation.
+
+## GitHub Milestone Activity
+
+During Week 6, complete the [GitHub Milestone Activity](06_activity_github_milestone.md). Create a repository milestone for the midterm expert-feedback presentation, assign the related Issues to it, and confirm those Issues appear on your Project board. Do not add Start Date or Target Date fields yet; Week 8 covers dated roadmap planning.
 
 ---
 
@@ -20,7 +24,8 @@ Before your Week 6 practice presentation, confirm all items below are in your pe
 - [ ] Breakpoint-to-research alignment is visible and explainable
 - [ ] Flowchart-style process diagram included in slide deck
 - [ ] Forward roadmap (now → final presentation) shown visually
-- [ ] GitHub milestones and issues updated (at least one issue per breakpoint)
+- [ ] Midterm presentation milestone created and related Issues assigned, following the [Week 6 activity](06_activity_github_milestone.md)
+- [ ] GitHub issues updated (at least one issue per breakpoint)
 - [ ] Unresolved decisions explicitly documented (not left blank)
 
 **Note at this time it is better to have SOMETHING for each, even if it is at this moment a placeholder.**
@@ -48,9 +53,9 @@ If you are stuck between options, document:
 
 ## Key Terms (Use Consistently)
 
-- **Climax:** your full, ideal project vision.
-- **LVP (Least Viable Product):** the leanest version that still expresses the core experience/mechanism.
-- **PoC (Proof of Concept):** the end-of-semester demonstrable build that proves your core system works.
+- **PoC (Proof of Concept):** the focused demonstration planned for this semester. It is not expected to be built for the Week 6 practice presentation or the midterm expert-feedback presentation.
+- **LVP (Least Viable Product):** the minimum complete project planned for ENT 4501.
+- **North Star Vision (NSV):** the larger aspirational direction for the project.
 - **Breakpoint ("Miracle")**: a large unresolved leap in logic, production, or feasibility.
 
 ---
@@ -104,7 +109,7 @@ This is a practice run of your juried presentation. It is not expected to be pol
 
 ### Required 10-Minute Structure
 
-Use this flow (adapted from [02-Presentation Deliverables](../../documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md)):
+Use this flow (adapted from the [Midterm Project Presentation and Deliverables](../../documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md)):
 
 1. **Introduction (1–2 min)**  
    Project name, one-sentence summary, type, and purpose
@@ -113,7 +118,7 @@ Use this flow (adapted from [02-Presentation Deliverables](../../documents-Class
    Key references, precedent logic, relevant prior work (if applicable)
 
 3. **Project Breakdown (3–4 min)**  
-   Climax, PoC target, technical stack, major uncertainties
+   North Star Vision, intended LVP, proposed PoC, technologies, current competencies, and major uncertainties
 
 4. **Milestones & Feasibility (2 min)**  
    GitHub milestones and development strategy

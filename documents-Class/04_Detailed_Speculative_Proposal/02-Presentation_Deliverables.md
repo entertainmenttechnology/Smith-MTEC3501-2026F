@@ -1,117 +1,84 @@
-# MTEC 3501: October 15, 22 Project Proposal Presentation – Deliverables
+# MTEC 3501: Midterm Project Presentation and Deliverables
 
-## Overview  
+**Related document:** [Final Presentation and PoC Demonstration Deliverables](03-Final-Presentation-Deliverables.md)
 
-The **March 16 presentation** serves as a critical checkpoint where students complete the **Research/Design** phase through a juried **assessment** of proposal feasibility and potential. After integrating feedback from this presentation, students move into **early production planning**. Students must clearly define project vision, research findings, production milestones, and **what the end-of-semester proof of concept (PoC) will be** (even though it will not be built yet).
+## Purpose
 
-**Terminology note:** In this document, “prototype” refers to the end-of-semester **PoC**.
+The midterm presentation takes place during **Weeks 7–8**. Students present their developing projects to industry experts to receive feedback and advice while there is still time to use it. This is a formative conversation about the project's direction and specificity, not a final presentation or a requirement to have built the Proof of Concept (PoC).
 
----
+The presentation should make the project's larger direction understandable, clarify what students hope to accomplish in this course and the next, and identify the systems, skills, and open questions involved.
 
-## Required Deliverables  
+## Scope: From PoC to North Star Vision
 
-Students must submit the following **before** their March 16 presentation.
+Present these related scopes clearly, from the focused near-term work outward:
 
-| **Category** | **Deliverable** | **Description** | **Submission Format** |
-| ------------- | --------------- | ---------------- | ------------------ |
-| **Oral Presentation (Main Deliverable)** | **10-minute project pitch** | A structured verbal presentation covering project scope, feasibility, research, milestones, and what the next semester LVP will be. | **Live panel presentation (Last Class, in-person)** |
-| **Research & Precedents** | **Annotated Research Bibliography** | List of relevant research, inspirations, and technical references, stored in **Zotero** and linked in the proposal. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Research" folder)** also provide link to your Zotero Folder but this markdown should be a bibliography generated from your Zotero research |
-| **Written Proposal** | **Refined Speculative Proposal (Climax + PoC + LVP Plan)** | The core document outlining the full vision (**Climax**) and what the PoC will be. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Proposal" folder)** |
-| **Project Planning** | **Milestone & Issue Tracking in GitHub** | A structured breakdown of the project into **major milestones and detailed issues** tied to phases. | **GitHub Project Board (Milestones & Issues tab)** |
-| **Presentation Slides** | **Google Slides or PDF Deck** | A concise, **visually structured presentation**, with examples and research references. | **publically accessable URL or pdf in the GitHub site)**|
-| **Prototype Plan (LVP Plan)** | **Description of the LVP (build next semester)** | A document explaining **what the LVP will be, its key functions, and what needs to be built first**. | **GitHub (Markdown file in each student's "Projects/[StudentName] folder)** |
-| **AI Usage Report** | **Brief summary of AI tools used** | A short write-up on any **AI tools** used in research, design, or planning, describing **how AI was used** and its impact. | **GitHub (Markdown file in each student's "Projects/[StudentName]" folder)** |
-| **Self-Assessment & Feedback Reflection** | **Project Feasibility Summary** | A **300-500 word write-up** summarizing **project feasibility, challenges, and areas needing feedback**. | **GitHub (Markdown file in each student's "Projects/[StudentName]" folder)** |
+1. **MTEC 3501 Proof of Concept (PoC):** The focused demonstration the student hopes to build this semester to test an important part of the project. At midterm, students must be able to describe it; they are not expected to demonstrate a completed PoC.
+2. **ENT 4501 Least Viable Product (LVP):** The minimum complete project the student hopes to develop in the next course. Explain its essential experience and how this semester's PoC could inform it.
+3. **North Star Vision (NSV):** The project's larger, aspirational direction beyond the bounded LVP. It provides context, not an additional required build.
 
----
+## What to Present
 
-## Structure for the 10-Minute Presentation
+Prepare a **10-minute presentation**, supported by slides or equivalent visual material. The expert feedback and discussion follow according to the class session format.
 
-Each student should structure their **oral presentation** following this flow:
+1. **Project framing (1 minute):** Working title, project form, concise description, intended audience or context, and purpose.
+2. **Research and context (2 minutes):** Relevant inspirations, precedents, research findings, and how they shape the project.
+3. **Scope and direction (2 minutes):** Describe the PoC, LVP, and NSV, and explain how the smaller scopes relate to the larger ambition.
+4. **Systems and competencies (3 minutes):** Identify the technologies, tools, materials, or systems being considered and what role each will play. Reflect on existing competencies, evidence of relevant experience, skills still to develop, and how those gaps might be addressed.
+5. **Plan and feedback questions (2 minutes):** Show the next steps or milestones, identify important unknowns, and ask the experts for specific feedback or advice.
 
-### 1. Introduction (1–2 minutes)
+The timing is a suggested structure. Keep the presentation within 10 minutes and leave discussion time for the expert panel.
 
-- **Project Name & One-Sentence Summary**  
-- **Project Type** (game, installation, animation, AI tool, etc.)  
-- **Goal of the project** and why it is important  
+## Suggested Slide Sequence
 
-### 2. Research & Precedents (2–3 minutes)
+This is an example sequence, not a required template. Students may combine, divide, or reorder slides to suit the project, as long as the presentation covers the required content above. Keep slides focused; do not turn them into a script.
 
-- **Key references, inspirations, and research findings**  
-- **Technical or artistic precedents that inform the project**  
-- **Personal past work** (if relevant) to show experience in this field  
+| Slide | Include | Suggested time |
+|---|---|---:|
+| 1. Project and presenter | Student/team name, working title, project form, and a clickable GitHub repository link or QR code. | 0:30 |
+| 2. Make It Specific: the experience | One-sentence project description; who the project is for; what that person does and experiences; the project's purpose. Use a storyboard, user journey, annotated sketch, mockup, or another suitable visual to help the panel imagine the experience. | 1:30 |
+| 3. Make It Specific: how it works | System overview showing inputs → process → outputs; key components; explicit dependency or critical condition. Mark uncertain elements as open questions. | 1:30 |
+| 4. Scope ladder | What the student proposes to demonstrate in the PoC; what they hope the LVP will include; how both relate to the larger North Star Vision. | 1:30 |
+| 5. Research and context | Selected inspirations, precedents, or other research; what was learned and how it affects the project. Cite sources on the slide or in a reference slide. | 1:30 |
+| 6. Technologies and competencies | Technologies, tools, materials, and their intended roles; current skills or relevant experience; skills to develop and how the student may develop them. | 1:30 |
+| 7. Next steps and unknowns | A short roadmap or milestone sequence; major dependencies, uncertainties, and proposed next investigations. | 1:00 |
+| 8. Questions for the experts | Two or three specific requests for feedback or advice. | 1:00 |
 
-### 3. Project Breakdown (3–4 minutes)
+Students may place the repository link on the title or closing slide. The course [Student Record](../Student_Record.md) also maintains individual repository links; verify that the record is current if relying on it for panel access.
 
-- **Climax Version:** Full, ambitious vision of the project  
-- **Prototype Plan (PoC):** What the PoC will be, what it will demonstrate, and the first steps toward building it  
-- **Technical requirements & tools needed**  
-- **Expected challenges or uncertainties**  
+For help developing the project description, experience, and system explanation, revisit the [Make It Specific Template](Make_It_Specific_Template.md) and [Make It Specific Examples](Make_It_Specific_Examples.md). These are starting points for the slide, not a requirement to copy the example projects or make polished production art. A rough sketch or clearly labeled diagram is enough if it helps the panel understand what a participant experiences.
 
-### 4. Milestones & Feasibility (2 minutes)
+## Required Materials
 
-- **Breakdown of key milestones in GitHub** (Research, Design, Produce, Publish, Assess)  
-- **Estimated timeline and development strategy**  
+Make the following materials easy to find from the README in the student's project repository:
 
-### 5. Questions for Feedback (final 1–2 minutes)
+- Presentation slides or visual support, shared as a link or committed file.
+- A visible, clickable GitHub repository link on the title or closing slide, or a current repository link in the course Student Record.
+- A current project proposal or project description that explains the PoC, LVP, and NSV.
+- Research bibliography generated from Zotero, organized by relevant research categories, with the Zotero collection linked.
+- GitHub milestones, issues, and roadmap showing planned work toward the PoC.
+- A brief technology and competency inventory: systems being considered, current skills or experience, and learning needs.
 
-- Areas where **feedback is needed** to refine the project  
-- Any **uncertainties about execution, scope, or research**  
+The PoC may be at the idea, design, or early trial stage. No completed or functioning PoC is required for this presentation. Early explorations may be included as context, not as a completion threshold.
 
-**Timing Tip:** Ensure the presentation stays under **10 minutes** to allow for panel feedback.
+## Feedback Preparation
 
----
+Students should bring two or three questions that would benefit from expert experience. Questions may concern project framing, audience, research, technology choices, competency gaps, scope, or next steps. Record useful feedback and identify how it could affect the proposal or plan.
 
-## Submission Guidelines
+## What This Presentation Is Not
 
-- **Oral Presentation:** **Delivered live on March 16**
-- **Google Drive:** Upload slides as a PDF in `Panel-1-Deliverables/`
-- **GitHub:**
-- **Proposal document** → `Projects/[StudentName]/Proposal/` folder  
-- **Milestones & issues** → GitHub Project Board  
-- **Research bibliography link** → `Projects/[StudentName]/Research/` folder  
-- **Prototype (PoC) Plan** → `Projects/[StudentName]/Prototype-Planning/` folder  
-- **AI Usage Report** → `Projects/[StudentName]/AI-Usage/` folder  
-- **Self-assessment reflection** → `Projects/[StudentName]/Reflections/` folder  
+- It is not the final course presentation.
+- It is not an expectation that the PoC is built or technically validated.
+- It is not a requirement to complete the ENT 4501 LVP or the North Star Vision.
+- It is not a pass/fail approval gate for continuing the project.
 
----
+## Feedback Criteria
 
-## Evaluation Criteria
+The presentation should make it possible for experts to respond meaningfully to:
 
-| **Category** | **Criteria** |
-| ------------- | ------------ |
-| **Specificity & Structural Clarity** | Does the project idea come across clearly and specifically? |
-| **Research & References** | Is the research thorough, with well-cited precedents? |
-| **Feasibility & Planning** | Does the PoC plan make sense for this semester? Are milestones well-structured? |
-| **Technical/Creative Execution** | Are the tools, skills, and methods well considered? |
-| **Presentation Quality** | Is the pitch well-structured, engaging, and within time? |
-| **PoC Development Plan** | Is there a clear and reasonable plan for building the PoC? |
-| **AI Integration** | Is there a well-documented summary of AI usage in the project? |
-| **Self-Reflection & Feedback Integration** | Has the student identified challenges & areas needing feedback? |
+- **Project specificity:** Is the project understandable, and are its purpose and context clear?
+- **Scope relationship:** Are the PoC, LVP, and NSV distinguishable and coherently related?
+- **Research and situational awareness:** Does the student understand relevant work and context?
+- **Technology and competencies:** Are proposed systems identified, and has the student assessed current skills and learning needs?
+- **Next steps:** Are uncertainties and feedback questions specific enough to guide useful advice?
 
----
-
-## Milestone Breakdown for March 16
-
-Each student must structure their **GitHub milestones and issues** leading up to the March 16 presentation.
-Milestones should align with the **five project phases**:
-
-1️⃣ **Milestone 1: Research & Proposal Finalization** *(Due by March 3)*  
-
-- Complete precedent & technical research.  
-- Refine speculative proposal (Climax & PoC Plan).  
-- Identify **key assumptions, unknowns, and risks**.  
-
-2️⃣ **Milestone 2: Structuring & Documentation** *(Due by March 10)*  
-
-- Define and document milestones in GitHub.  
-- Create **at least 5 issues** (tasks assigned to specific milestones).  
-- Set up GitHub repository with organized folders & README.  
-
-3️⃣ **Milestone 3: PoC Plan & Presentation Preparation** *(Due by March 16)*
-
-- Define what the PoC will be and what needs to be built first.  
-- Finalize slides & proposal document.  
-- Prepare and practice the **10-minute presentation**.  
-- Write a self-reflection on **progress & challenges**.  
-- Document AI usage in research, design, or planning.  
+These criteria guide feedback; they do not imply that the project must be final or fully feasible at midterm.
