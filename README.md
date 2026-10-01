@@ -7,7 +7,7 @@
 **Term:** Fall 2026  
 **Instructor:** David B. Smith  
 **Contact:** dsmith@citytech.cuny.edu  
-**Zoom Meeting Info:** [Join Zoom Meeting] (https://us02web.zoom.us/j/6491048253?pwd=dHlLcE9TR1pDeEhSSC83c2xjenlpUT09) • Meeting ID 649-104-8253 • Passcode `Advise`
+**Zoom Meeting Info:** [Join Zoom Meeting](https://us02web.zoom.us/j/6491048253?pwd=dHlLcE9TR1pDeEhSSC83c2xjenlpUT09) • Meeting ID 649-104-8253 • Passcode `Advise`
 
 ## ➜ [Begin Week 4 Assignments](./assignments/week04/README.md)
 
