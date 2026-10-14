@@ -35,9 +35,9 @@ This is an example sequence, not a required template. Students may combine, divi
 | Slide | Include | Suggested time |
 |---|---|---:|
 | 1. Project and presenter | Student/team name, working title, project form, and a clickable GitHub repository link or QR code. | 0:30 |
-| 2. Make It Specific: the experience | One-sentence project description; who the project is for; what that person does and experiences; the project's purpose. Use a storyboard, user journey, annotated sketch, mockup, or another suitable visual to help the panel imagine the experience. | 1:30 |
-| 3. Make It Specific: how it works | System overview showing inputs → process → outputs; key components; explicit dependency or critical condition. Mark uncertain elements as open questions. | 1:30 |
-| 4. Scope ladder | What the student proposes to demonstrate in the PoC; what they hope the LVP will include; how both relate to the larger North Star Vision. | 1:30 |
+| 2. The User experience | One-sentence project description; who the target audience is; what is the user experience; the project's purpose. Use a storyboard, user journey, annotated sketch, mockup, or another suitable visual to help the panel imagine the experience. | 1:30 |
+| 3. How it works | System overview showing inputs → process → outputs; key components; explicit dependency or critical condition. Mark uncertain elements as open questions. | 1:30 |
+| 4. Scope ladder | Three levels of scope: North Star, LVP, PoC: What the student proposes to demonstrate in the PoC; what they hope the LVP will include; how both relate to the larger North Star Vision. | 1:30 |
 | 5. Research and context | Selected inspirations, precedents, or other research; what was learned and how it affects the project. Cite sources on the slide or in a reference slide. | 1:30 |
 | 6. Technologies and competencies | Technologies, tools, materials, and their intended roles; current skills or relevant experience; skills to develop and how the student may develop them. | 1:30 |
 | 7. Next steps and unknowns | A short roadmap or milestone sequence; major dependencies, uncertainties, and proposed next investigations. | 1:00 |
