@@ -16,7 +16,7 @@ This assignment has three parts:
 
 **[2.2 Research and Project Setup](2.2_Research_and_Project_Setup.md)**
 
-Complete Zotero shared-library setup, create your project research collection, add an initial source, and establish your first GitHub Issue and Project Board.
+Complete Zotero shared-library setup, create your project research collection, and add an initial source. GitHub Issues and Project Boards are introduced in a later week.
 
 ## Support Materials
 
