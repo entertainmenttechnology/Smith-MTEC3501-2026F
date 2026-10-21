@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 370" role="img" aria-labelledby="title description">
+  <title id="title">Interactive installation user-experience storyboard</title>
+  <desc id="description">Five illustrated panels show a participant entering a projection-mapped room, making sound or movement, noticing the audiovisual response, trying another action, and seeing changes accumulate with another participant.</desc>
+  <style>
+    .panel { fill: #fffefa; stroke: #bec9c5; stroke-width: 1.5; }
+    .room { fill: #e7efec; }
+    .floor { stroke: #657873; stroke-width: 2; }
+    .ink { fill: #273b3b; }
+    .line { fill: none; stroke: #273b3b; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+    .teal { fill: #2e8b83; }
+    .coral { fill: #e4775e; }
+    .gold { fill: #e8b84c; }
+    .project { fill: #d6e9e3; stroke: #2e8b83; stroke-width: 2; }
+    .caption { fill: #273b3b; font: 700 13px Arial, sans-serif; }
+    .note { fill: #4d625e; font: 12px Arial, sans-serif; }
+    .step { fill: #fffefa; stroke: #273b3b; stroke-width: 1.5; }
+    .stepText { fill: #273b3b; font: 700 12px Arial, sans-serif; }
+  </style>
+
+  <rect width="1100" height="370" fill="#f3f1e9" />
+
+  <g transform="translate(10 18)">
+    <rect class="panel" width="204" height="332" rx="5" />
+    <circle class="step" cx="22" cy="22" r="13"/><text class="stepText" x="18" y="26">1</text>
+    <rect class="room" x="17" y="46" width="170" height="174" />
+    <path class="floor" d="M17 194H187" />
+    <rect class="project" x="103" y="72" width="67" height="83" />
+    <circle class="teal" cx="122" cy="101" r="13" />
+    <path d="M137 90q17 11 0 22M143 84q26 17 0 34" fill="none" stroke="#e4775e" stroke-width="3" />
+    <path class="line" d="M25 194v-93h24v93M25 101h24" />
+    <circle class="coral" cx="76" cy="142" r="10" />
+    <path class="line" d="M76 153v27m0-18 13 9m-13-7-10 11m10 5-8 14m8-14 10 14" />
+    <path d="M52 183l9 7-9 7" fill="none" stroke="#e4775e" stroke-width="3" />
+    <text class="caption" x="17" y="246">ENTER THE ROOM</text>
+    <text class="note" x="17" y="267">Layered sound and a</text>
+    <text class="note" x="17" y="284">projected environment</text>
+  </g>
+
+  <g transform="translate(231 18)">
+    <rect class="panel" width="204" height="332" rx="5" />
+    <circle class="step" cx="22" cy="22" r="13"/><text class="stepText" x="18" y="26">2</text>
+    <rect class="room" x="17" y="46" width="170" height="174" />
+    <path class="floor" d="M17 194H187" />
+    <rect class="project" x="105" y="72" width="65" height="83" />
+    <circle class="gold" cx="138" cy="111" r="21" />
+    <path d="M46 82q12-11 24 0t24 0M50 92q9-8 18 0t18 0" fill="none" stroke="#e4775e" stroke-width="3" />
+    <circle class="coral" cx="76" cy="139" r="10" />
+    <path class="line" d="M76 150v27m0-18 17-19m-17 20-12 11m12 6-9 17m9-17 10 17" />
+    <path d="M91 130q9-9 18 0M94 137q6-6 12 0" fill="none" stroke="#2e8b83" stroke-width="3" />
+    <text class="caption" x="17" y="246">MAKE A SOUND OR MOVE</text>
+    <text class="note" x="17" y="267">Explore actions in the</text>
+    <text class="note" x="17" y="284">space</text>
+  </g>
+
+  <g transform="translate(452 18)">
+    <rect class="panel" width="204" height="332" rx="5" />
+    <circle class="step" cx="22" cy="22" r="13"/><text class="stepText" x="18" y="26">3</text>
+    <rect class="room" x="17" y="46" width="170" height="174" />
+    <path class="floor" d="M17 194H187" />
+    <rect class="project" x="98" y="70" width="76" height="91" />
+    <circle class="teal" cx="135" cy="112" r="10" />
+    <circle cx="135" cy="112" r="23" fill="none" stroke="#e4775e" stroke-width="3" />
+    <circle cx="135" cy="112" r="35" fill="none" stroke="#e8b84c" stroke-width="3" />
+    <circle class="coral" cx="65" cy="144" r="10" />
+    <path class="line" d="M65 155v26m0-17-14-12m14 12 14-13m-14 18-10 18m10-18 10 18" />
+    <path d="M79 115C96 104 101 103 112 108" fill="none" stroke="#273b3b" stroke-width="2" stroke-dasharray="4 4" />
+    <text class="caption" x="17" y="246">NOTICE THE RESPONSE</text>
+    <text class="note" x="17" y="267">Sound and imagery shift</text>
+    <text class="note" x="17" y="284">in response</text>
+  </g>
+
+  <g transform="translate(673 18)">
+    <rect class="panel" width="204" height="332" rx="5" />
+    <circle class="step" cx="22" cy="22" r="13"/><text class="stepText" x="18" y="26">4</text>
+    <rect class="room" x="17" y="46" width="170" height="174" />
+    <path class="floor" d="M17 194H187" />
+    <rect class="project" x="103" y="72" width="67" height="83" />
+    <path d="M110 137l17-31 12 18 13-27 17 40" fill="none" stroke="#2e8b83" stroke-width="4" />
+    <circle class="coral" cx="67" cy="142" r="10" />
+    <path class="line" d="M67 153v27m0-17 19-11m-19 11-13-4m13 21-12 17m12-17 10 15" />
+    <path d="M91 112q10-10 20 0M95 120q6-6 12 0" fill="none" stroke="#e4775e" stroke-width="3" />
+    <circle class="gold" cx="37" cy="77" r="5"/><circle class="teal" cx="78" cy="71" r="4"/>
+    <text class="caption" x="17" y="246">TRY ANOTHER ACTION</text>
+    <text class="note" x="17" y="267">Compare how a new action</text>
+    <text class="note" x="17" y="284">changes the output</text>
+  </g>
+
+  <g transform="translate(894 18)">
+    <rect class="panel" width="196" height="332" rx="5" />
+    <circle class="step" cx="22" cy="22" r="13"/><text class="stepText" x="18" y="26">5</text>
+    <rect class="room" x="15" y="46" width="166" height="174" />
+    <path class="floor" d="M15 194H181" />
+    <rect class="project" x="82" y="70" width="84" height="91" />
+    <circle class="teal" cx="103" cy="98" r="12" />
+    <path d="M121 85l12 13-10 12 19 9-17 19 22 9" fill="none" stroke="#e4775e" stroke-width="4" />
+    <circle class="coral" cx="49" cy="145" r="9" />
+    <path class="line" d="M49 155v25m0-17-12-13m12 13 11-13m-11 20-9 15m9-15 9 15" />
+    <circle class="gold" cx="72" cy="145" r="9" />
+    <path class="line" d="M72 155v25m0-17-10-10m10 10 12-10m-12 20-8 15m8-15 9 15" />
+    <circle class="gold" cx="34" cy="82" r="4"/><circle class="coral" cx="64" cy="72" r="4"/><circle class="teal" cx="47" cy="99" r="4"/>
+    <text class="caption" x="15" y="246">SEE CHANGES ACCUMULATE</text>
+    <text class="note" x="15" y="267">Participants shape the</text>
+    <text class="note" x="15" y="284">room together</text>
+  </g>
+</svg>
