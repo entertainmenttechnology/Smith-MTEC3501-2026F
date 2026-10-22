@@ -1,4 +1,3 @@
-# MTEC 3501 — Week 8 Asynchronous Assignment (Draft)
 ## Post-Presentation Feedback and PoC Development
 
 **Format:** Independent asynchronous work for October 22, 2026  
@@ -7,7 +6,7 @@
 
 ## Purpose
 
-The mid-semester presentations are complete. Use this week to respond to presentation feedback, review formative feedback on your GitHub repository, clarify your Proof of Concept (PoC) and technology needs, and **begin practical development**.
+The mid-semester presentations are complete. Use this week to respond to presentation feedback, review formative feedback on your GitHub repository, clarify your Proof of Concept (PoC) and technology needs, and **begin practical development** of your PoC.
 
 The PoC is not due with this assignment. It is the target of the remaining seven instructional weeks. For this course, the PoC is the focused demonstration requiring the least effort needed to show that important system components can be used, manipulated, or deployed. It is not the complete North Star Vision or the eventual Least Viable Product (LVP).
 
@@ -17,11 +16,11 @@ These activities are independent and untimed. You do not need to be online or wo
 
 ### 1. Reconsider Presentation and Repository Feedback
 
-Review your presentation evaluation and any formative instructor feedback on your repository. Identify observations that affect your scope, research, technical approach, or documentation. Decide which suggestions to adopt, adapt, investigate, or decline, and briefly explain why.
+Review your presentation evaluation and any formative instructor feedback on your repository. These were sent individually by email.  Identify observations that affect your scope, research, technical approach, or documentation. Decide which suggestions to adopt, adapt, investigate, or decline, and briefly explain why.
 
 Clarify what your PoC needs to demonstrate. Distinguish its essential capabilities from features reserved for the longer-term project.
 
-### 2. Examine and Improve Your Repository
+### 2. Examine and Improve Your GitHub Repository
 
 Use the repository feedback to identify what is already appropriate, what needs development, and what is not yet present. Correct straightforward problems, update the README and navigation as needed, and track more substantial work in your action plan.
 
@@ -29,11 +28,13 @@ The instructor's 2–1–0 indicators are formative descriptions, not a score or
 
 - **2** — meets current expectations
 - **1** — exists but needs improvement
-- **0** — absent, even in preliminary form
+- **0** — absent, even in preliminary form.
+
+Remember IF IT IS NOT IN YOUR GITHUB SITE, IT DOES NOT EXIST!  
 
 ### 3. Specify the Technology Stack and Its Relationships
 
-Identify the hardware, software, materials, tools, and production processes needed for the PoC. Distinguish components that are available and tested, those proposed but not yet verified, and unresolved requirements. Explain how the components interact; a simple signal-flow, system, or production-workflow diagram may help.
+Identify the hardware, software, materials, tools, and production processes needed for your project.  Distinguish components that are available and tested, those proposed but not yet verified, and any unresolved requirements. Explain how the components interact; a simple signal-flow, system, or production-workflow diagram may help.  Remember that even if you are not completely sure about teh technology decision, you MUST make one at this point.  
 
 Identify important dependencies and the technical or creative unknowns most likely to impede progress.
 
