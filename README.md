@@ -9,7 +9,7 @@
 **Contact:** dsmith@citytech.cuny.edu  
 **Zoom Meeting Info:** [Join Zoom Meeting](https://us02web.zoom.us/j/6491048253?pwd=dHlLcE9TR1pDeEhSSC83c2xjenlpUT09) • Meeting ID 649-104-8253 • Passcode `Advise`
 
-## ➜ [Begin Week 4 Assignments](./assignments/week04/README.md)
+## ➜ [Begin Week 8 Activities](./assignments/week08/08_assignment_post_presentation_poc_development_draft.md)
 
 MTEC 3501 guides students through the development of a Culmination Project that will continue into ENT 4501. The course emphasizes iterative speculation, research, design, production, documentation, presentation, and assessment.
 
@@ -17,21 +17,48 @@ MTEC 3501 guides students through the development of a Culmination Project that 
 
 ## Current Class / Assignment
 
-### Week 4 — Precedent Research, Detailed Proposal, and GitHub/Zotero Setup
+### Week 8 — Post-Presentation Assessment, Project Roadmap, and PoC Development
 
-In class, all students created their first Issues, set up a GitHub Project Board (Kanban), and confirmed Zotero access. This week's work continues the detailed speculative proposal and precedent research, and puts that new infrastructure to use.
+Following the mid-semester presentations, students use feedback to refine their project direction, plan the remaining work, and begin practical PoC development. The PoC is a focused demonstration for this semester, not the complete LVP or North Star Vision.
 
-**Primary assignment: [Week 4 Assignment Overview](./assignments/week04/README.md)**
+**Week 8 activities:**
 
-The assignment includes:
+- [Timeline Setup, Issue Tracking, and Milestones](./assignments/week08/mtec_3501_assignment08_timeline_and_issue_tracking.md) — configure the Roadmap, sequence work through dependencies, and define validated project milestones
+- [Post-Presentation Feedback and PoC Development](./assignments/week08/08_assignment_post_presentation_poc_development_draft.md) — respond to feedback, document the PoC technology stack, begin a practical trial, and update the action plan
 
-- [04a Make It Specific](./assignments/week04/04a_assignment_make_it_specific.md) — refine your project into a clear, specific, buildable description
-- [04b GitHub & Zotero Infrastructure Setup](./assignments/week04/04b_github_zotero_infrastructure_setup.md) — Issues, sub-issues, Kanban board, Discussions, `.gitignore`/`/src`, and Zotero sub-collection
-
-**Note:** The next two class sessions (this week and next) are remote via Zoom — see the meeting info above.
+The asynchronous PoC-development assignment is due before the Week 9 class meeting on October 29. The timeline assignment is due at the end of Week 8; consult each assignment for its submission requirements.
 
 <details>
 <summary>Previous Assignments</summary>
+
+### Week 7 — From Feedback to Execution
+
+Translate presentation and critique feedback into actionable Issues and organize current work on the Project Board.
+
+- [From Feedback to Execution (GitHub System)](./assignments/week07/mtec_3501_git_hub_milestones_and_issues_assignment.md)
+- [Issue Template Reference](./assignments/week07/mtec_3501_issue_template_reference.md)
+
+### Week 6 — Research Structuring and Practice Presentation
+
+Align research with project breakpoints, practice the presentation, and develop the process diagram and end-of-semester roadmap.
+
+- [Research Structuring & Practice Presentation](./assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)
+- [GitHub Milestone Activity](./assignments/week06/06_activity_github_milestone.md)
+
+### Week 5 — Project Infrastructure, Scope, and Research
+
+Consolidate the project repository and research while defining the PoC, LVP, and North Star Vision.
+
+- [Week 5 Assignment](./assignments/week05/05_assignment_week05.md)
+- [Week 5 Reference Guide](./assignments/week05/05_document_week05_reference.md)
+
+### Week 4 — Make It Specific and Set Up Project Infrastructure
+
+Refine the project description and establish GitHub and Zotero infrastructure.
+
+- [Week 4 Assignment Overview](./assignments/week04/README.md)
+- [04a Make It Specific](./assignments/week04/04a_assignment_make_it_specific.md)
+- [04b GitHub & Zotero Infrastructure Setup](./assignments/week04/04b_github_zotero_infrastructure_setup.md)
 
 ### Week 3 — Speculation to Research Transition
 
@@ -57,7 +84,7 @@ Week 1 was a guided online class. Complete the sequence below if you still need 
 
 </details>
 
-As the semester continues, this section will be updated to point directly to the current week's class activities and assignments.
+This section points to the current week's class activities and assignments. For the complete sequence, see the [Assignments Index](assignments/README.md).
 
 ---
 
@@ -67,9 +94,7 @@ Projects in MTEC 3501 develop through the following iterative framework:
 
 > **Speculate → Research → Design → Make/Produce → Present/Publish → Assess**
 
-These stages are not rigid compartments. Speculation continues during research; research continues during design and production; assessment can cause a project to return to earlier stages.
-
-During the opening weeks of the course, we will deliberately remain primarily within the **Speculate** phase while beginning exploratory research.
+These stages are not rigid compartments. Students revisit all six stages as projects develop: research, design, making, presentation, and assessment may lead to renewed speculation or earlier-stage work.
 
 ---
 
@@ -81,15 +106,15 @@ Throughout the course, we will distinguish among three different scales of the C
 
 The broadest intellectual, creative, technical, experiential, and cultural universe of the project.
 
-### Minimum Viable Product — MVP
+### Least Viable Product — LVP
 
-The minimum meaningful realization of the project that still fulfills its essential purpose.
+The minimum complete version of the project planned for ENT 4501, the following course.
 
 ### Proof of Concept — PoC
 
-The focused demonstration developed during MTEC 3501 to investigate feasibility, complexity, technical challenges, and readiness to continue into ENT 4501.
+The focused demonstration developed during MTEC 3501 to test important parts of the project's creative and technical approach and show readiness to continue into ENT 4501.
 
-These definitions will evolve as projects develop.
+The PoC, LVP, and NSV are related but distinct project scopes. The PoC is not the complete LVP or the aspirational NSV.
 
 ---
 

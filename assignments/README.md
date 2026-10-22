@@ -42,6 +42,13 @@ Each week builds toward your **end-of-semester prototype (Proof of Concept)** an
 
 ---
 
+## Week 8 Files
+
+- [Assignment 08: Timeline Setup, Issue Tracking, and Milestones](week08/mtec_3501_assignment08_timeline_and_issue_tracking.md)
+- [Post-Presentation Feedback and PoC Development](week08/08_assignment_post_presentation_poc_development_draft.md)
+
+---
+
 ## Week 6 Files
 
 - [Week 6 Assignment: Research Structuring & Practice Presentation](week06/06_assignment_zotero_tagging_trial_presentation.md)
@@ -57,5 +64,4 @@ Each week builds toward your **end-of-semester prototype (Proof of Concept)** an
 ---
 
 📣 *Assignments are cumulative: each week advances your project from initial speculation to a working prototype, culminating in juried presentations.*  
-
 
