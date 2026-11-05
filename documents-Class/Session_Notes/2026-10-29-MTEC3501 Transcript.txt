@@ -1,0 +1,1655 @@
+WEBVTT
+
+00:14:18.000 --> 00:14:25.000
+David Smith: Okay. Hello, people. Sorry, I thought that I was on.
+
+00:14:25.000 --> 00:14:36.000
+David Smith: I was going to be on my other computer, but I'm having problems logging into it. So I'm popping over to this one. That's why I'm a minute or 2 late Aidan. Good to see you. Really long time. No, see.
+
+00:14:36.000 --> 00:14:42.000
+David Smith: And yeah, good. So let's see.
+
+00:14:42.000 --> 00:14:44.000
+David Smith: Um…
+
+00:14:44.000 --> 00:14:47.000
+David Smith: I mean, we might as well get started.
+
+00:14:47.000 --> 00:14:48.000
+David Smith: And…
+
+00:14:49.000 --> 00:14:50.000
+David Smith: I…
+
+00:14:50.000 --> 00:14:52.000
+David Smith: am…
+
+00:14:52.000 --> 00:14:55.000
+David Smith: Just laying out what we're going to be doing for the rest of the semester.
+
+00:14:55.000 --> 00:15:12.000
+David Smith: We're basically going to be just continuing to work on our various projects, and every week is sort of a check in. So it's not. And so that's really the most important thing that we want to be able to do.
+
+00:15:12.000 --> 00:15:20.000
+David Smith: from this point until the end of the semester is to recognize what our deliverables are going to be for the end of the semester.
+
+00:15:20.000 --> 00:15:30.000
+David Smith: and then to work our way towards making that happen. This is October 29th. Is this week eight or week nine? I keep getting…
+
+00:15:30.000 --> 00:15:32.000
+David Smith: mixed up on this.
+
+00:15:32.000 --> 00:15:45.000
+David Smith: I should be able to tell because I had the syllabus open. It is week 9. OK, so we have week 10, week 11, week 12, week 13, week 14, week 15.
+
+00:15:45.000 --> 00:15:52.000
+David Smith: One, two, three, four, five. We have five more classes before our final presentations.
+
+00:15:52.000 --> 00:16:03.000
+David Smith: And what that means is that we have to make… if we have 5 classes, that means we have to get 20% of the way towards our final, excuse me, deliverable.
+
+00:16:03.000 --> 00:16:05.000
+David Smith: And, uh…
+
+00:16:05.000 --> 00:16:11.000
+David Smith: And so what we want to start to do is to plan how that's going to occur.
+
+00:16:11.000 --> 00:16:25.000
+David Smith: I'll point out that we really have two different types of projects that we have to deal with. One is the final paperwork that we have is going to be the design document for us to actually build.
+
+00:16:25.000 --> 00:16:31.000
+David Smith: our culmination project, which is our least viable product, or hopefully a little bit more than least viable product.
+
+00:16:31.000 --> 00:16:48.000
+David Smith: What we need to be able to do by the end of this semester is to demonstrate that we have enough capability in the systems that we've selected, that the jury feels comfortable that you're going to be able to.
+
+00:16:49.000 --> 00:16:51.000
+David Smith: to make this happen.
+
+00:16:51.000 --> 00:16:55.000
+David Smith: So overall, what that means is that.
+
+00:16:56.000 --> 00:17:03.000
+David Smith: Each of these classes from now until the end of the semester will be.
+
+00:17:03.000 --> 00:17:05.000
+David Smith: Each of you reporting where you are.
+
+00:17:05.000 --> 00:17:09.000
+David Smith: Uh, describing what…
+
+00:17:09.000 --> 00:17:25.000
+David Smith: You had accomplished within the last week, talk about any questions or problems or things like that that you may have, and then what we need to be able to do is to propose what is it that we need to get done by the end, by the following week.
+
+00:17:26.000 --> 00:17:30.000
+David Smith: So there is a technique.
+
+00:17:30.000 --> 00:17:31.000
+David Smith: Um…
+
+00:17:32.000 --> 00:17:36.000
+David Smith: called agile methodology, which I'll introduce.
+
+00:17:36.000 --> 00:17:46.000
+David Smith: At the second half of this particular class, and it's just a way of developing sprints so that we have a structure that we can work with.
+
+00:17:46.000 --> 00:17:53.000
+David Smith: What I'll want you to do then is to develop the Agile into issues on your GitHub site.
+
+00:17:53.000 --> 00:18:04.000
+David Smith: And so that's what we'll be working with as we move forward in the next week. But what I want to do right now is I just want to get some feedback. You presented.
+
+00:18:04.000 --> 00:18:11.000
+David Smith: I note that everybody, all the all of the comments.
+
+00:18:11.000 --> 00:18:28.000
+David Smith: were very pleased with what they saw, but of course they were asking for additional information, etc. The most important thing we need to be able to do is to come up with very specifically what is our proof of concept going to be, and also, as we move forward, we'll be able to decide.
+
+00:18:28.000 --> 00:18:32.000
+David Smith: How deep our least viable product is going to be.
+
+00:18:32.000 --> 00:18:42.000
+David Smith: So that is the goal. So I'm just going to go around the class for this particular session, and I will.
+
+00:18:42.000 --> 00:18:45.000
+David Smith: Ask each of you to sort of.
+
+00:18:45.000 --> 00:18:51.000
+David Smith: Discuss what you discovered, where you are, et cetera. And let me turn on share screen.
+
+00:18:58.000 --> 00:19:02.000
+David Smith: Okay, all participants can share.
+
+00:19:02.000 --> 00:19:06.000
+David Smith: And I'm not going to share, so let me just stop that.
+
+00:19:06.000 --> 00:19:16.000
+David Smith: OK. I mean, I'll share later. Does anyone want to jump in first and just say what they're thinking about, what they learned, or do you want me to pick someone?
+
+00:19:16.000 --> 00:19:20.000
+Jessie Chan: I can go first. I can go first.
+
+00:19:16.000 --> 00:19:18.000
+JJ Liriano: I think…
+
+00:19:19.000 --> 00:19:21.000
+David Smith: Jesse won, okay.
+
+00:19:21.000 --> 00:19:39.000
+David Smith: Yeah, so Jesse, I know that we did a little bit of a shifting in the presentation in terms of going more towards the narrative portion. But I want to hear from you. What are you thinking that you want to do? And what's going to be the most specific part?
+
+00:19:39.000 --> 00:19:40.000
+David Smith: Go ahead.
+
+00:19:40.000 --> 00:19:44.000
+Jessie Chan: Ah, I've already started programming the game in RunPE.
+
+00:19:44.000 --> 00:19:45.000
+David Smith: Oh, great.
+
+00:19:45.000 --> 00:19:52.000
+Jessie Chan: So, uh, next is the script. I have to, uh…
+
+00:19:52.000 --> 00:19:58.000
+Jessie Chan: I am currently playing through the game, trying to get some inspiration.
+
+00:19:56.000 --> 00:19:57.000
+David Smith: Mm-hmm.
+
+00:19:59.000 --> 00:20:04.000
+Jessie Chan: And yeah, that's about it. I'm trying to get some inspiration for the script.
+
+00:20:05.000 --> 00:20:09.000
+David Smith: Okay, so do you have ideas for the script, or…
+
+00:20:08.000 --> 00:20:10.000
+Jessie Chan: Yeah, I do.
+
+00:20:10.000 --> 00:20:11.000
+David Smith: Okay.
+
+00:20:11.000 --> 00:20:16.000
+David Smith: I mean, I know we had some of the discussions before, so, um…
+
+00:20:16.000 --> 00:20:20.000
+David Smith: When you say you're programming in RENP.
+
+00:20:20.000 --> 00:20:29.000
+David Smith: Did you — how far did you do? Did you build a structure or a framework? Or what was it that you're —.
+
+00:20:27.000 --> 00:20:33.000
+Jessie Chan: I built a choose your character screen.
+
+00:20:32.000 --> 00:20:35.000
+David Smith: Okay, can we see it? Do you have it?
+
+00:20:33.000 --> 00:20:38.000
+Jessie Chan: And choose your name screen. Yeah, I have shared.
+
+00:20:35.000 --> 00:20:41.000
+David Smith: Do you have — yeah, why don't you share it, and then you can sort of describe what you're doing, and we can take a look at it.
+
+00:20:41.000 --> 00:20:43.000
+Jessie Chan: Okay.
+
+00:20:45.000 --> 00:20:47.000
+Jessie Chan: Uh…
+
+00:20:55.000 --> 00:20:58.000
+Jessie Chan: Here, this is from P.
+
+00:20:58.000 --> 00:20:59.000
+David Smith: Mmhm.
+
+00:20:59.000 --> 00:21:01.000
+Jessie Chan: And uh…
+
+00:21:03.000 --> 00:21:05.000
+Jessie Chan: This is the game so far.
+
+00:21:05.000 --> 00:21:19.000
+David Smith: Yeah, I know it can be very, very trivial. What I want to make sure is that when we do our demonstration, that at the end of the semester, that all the faculty there say, oh, OK, they know enough about it. We feel comfortable that they can work in the environment.
+
+00:21:19.000 --> 00:21:24.000
+David Smith: Okay, great. So show me what you have so far. This is the splash screen, right?
+
+00:21:24.000 --> 00:21:29.000
+Jessie Chan: Yeah, and this is you could choose your playable character.
+
+00:21:25.000 --> 00:21:26.000
+David Smith: Okay.
+
+00:21:29.000 --> 00:21:32.000
+Jessie Chan: So I'll pick the girl and.
+
+00:21:30.000 --> 00:21:32.000
+David Smith: Okay.
+
+00:21:33.000 --> 00:21:35.000
+Jessie Chan: I'll pick…
+
+00:21:35.000 --> 00:21:37.000
+Jessie Chan: And yeah, that's it.
+
+00:21:36.000 --> 00:21:38.000
+David Smith: Okay.
+
+00:21:38.000 --> 00:21:41.000
+David Smith: Oh, but that's the entry portal, right?
+
+00:21:41.000 --> 00:21:42.000
+Jessie Chan: Yeah.
+
+00:21:41.000 --> 00:21:45.000
+David Smith: Okay, so let's go back to the main splash screen.
+
+00:21:50.000 --> 00:21:52.000
+Jessie Chan: Yeah. Okay.
+
+00:21:51.000 --> 00:21:54.000
+David Smith: Yeah, okay. Um…
+
+00:21:55.000 --> 00:21:56.000
+David Smith: So…
+
+00:21:57.000 --> 00:22:02.000
+David Smith: I'm just I'm trying to think about what we.
+
+00:22:02.000 --> 00:22:12.000
+David Smith: might want to put here, and you can explain to me. So, this is an actual character that you're doing homage with, the anime?
+
+00:22:13.000 --> 00:22:15.000
+Jessie Chan: Mm-hmm. Yeah, I am.
+
+00:22:15.000 --> 00:22:20.000
+David Smith: Yeah, okay, so you may, you know, there may be some.
+
+00:22:20.000 --> 00:22:30.000
+David Smith: opportunity here to put an homage game, or, you know, some, you know, some kind of, uh, sort of a subheading that first indicates that it's a game.
+
+00:22:30.000 --> 00:22:44.000
+David Smith: Because we don't know that yet. And of course, you know, it depends on the platform that you're going to put it on. But just, you know, a little bit of extra there. I don't see your name, right? You're the artist, you're the creator, so you should definitely claim it.
+
+00:22:44.000 --> 00:22:54.000
+David Smith: And it could be — is it maybe in the about or something? I don't know. I'm just thinking about things that I might want to look at.
+
+00:22:57.000 --> 00:23:07.000
+David Smith: Right, so this is the default, right? So in here, I think you want… you'll… you will… we'll want to put a little bit more, you know, about who you are and… and why… what the game is, or… or things like that.
+
+00:22:59.000 --> 00:23:01.000
+Jessie Chan: Yeah.
+
+00:23:02.000 --> 00:23:03.000
+Jessie Chan: Let's see.
+
+00:23:07.000 --> 00:23:12.000
+David Smith: Okay, let me see the load screen with the characters again.
+
+00:23:08.000 --> 00:23:09.000
+Jessie Chan: Mm-hmm.
+
+00:23:13.000 --> 00:23:16.000
+Jessie Chan: This is where you keep your saves.
+
+00:23:15.000 --> 00:23:17.000
+David Smith: Oh, okay.
+
+00:23:17.000 --> 00:23:20.000
+Jessie Chan: So, I can, uh…
+
+00:23:26.000 --> 00:23:28.000
+Jessie Chan: And then…
+
+00:23:34.000 --> 00:23:38.000
+Jessie Chan: Yeah, it will just load back into the save.
+
+00:23:38.000 --> 00:23:46.000
+David Smith: Right, yeah, and then… and then it would save into one of those slots when… wherever you were in the game, right? You have that option. Yeah.
+
+00:23:43.000 --> 00:23:45.000
+Jessie Chan: Mm-hmm.
+
+00:23:46.000 --> 00:24:00.000
+David Smith: Okay, so tell me how much of this RENP structure is already in place for you, and how much do you have to do to get to this? It feels to me that there's a nice default framework that they give you so that you don't have to, like.
+
+00:24:00.000 --> 00:24:08.000
+David Smith: um, load all the… have all the… the different menu items and things that that's given? Is that… is that…
+
+00:24:06.000 --> 00:24:11.000
+Jessie Chan: I'm pretty experienced so friendly. I've used it before.
+
+00:24:10.000 --> 00:24:21.000
+David Smith: Yeah, I'm just curious how much they — say that I wanted to create — and this is more for me, Jesse. I trust your capabilities in here.
+
+00:24:21.000 --> 00:24:23.000
+Jessie Chan: Mm-hmm.
+
+00:24:21.000 --> 00:24:23.000
+David Smith: Say I wanted to create a game.
+
+00:24:23.000 --> 00:24:30.000
+David Smith: When you say new game or new whatever, new project, what does it give you? What do you see?
+
+00:24:27.000 --> 00:24:29.000
+Jessie Chan: Mm-hmm.
+
+00:24:31.000 --> 00:24:37.000
+Jessie Chan: Uh, it starts the game over from the start, before all your saves.
+
+00:24:34.000 --> 00:24:36.000
+David Smith: No, I mean, I mean…
+
+00:24:36.000 --> 00:24:50.000
+David Smith: Yeah, I don't mean your game, I just say that I… say that I just… I wanted to create a game in Ren'P, and so I go to Ren'P, and I lo… you know, I do whatever the load… I just sort of want to see what that process looks like, that's all.
+
+00:24:50.000 --> 00:24:53.000
+Jessie Chan: Oh, okay.
+
+00:24:52.000 --> 00:24:56.000
+David Smith: Yeah, just to… just so I get a better feeling.
+
+00:24:57.000 --> 00:24:59.000
+Jessie Chan: Uh…
+
+00:25:07.000 --> 00:25:09.000
+Jessie Chan: um…
+
+00:25:10.000 --> 00:25:14.000
+Jessie Chan: When you click start, it starts you from the very beginning.
+
+00:25:14.000 --> 00:25:29.000
+David Smith: Yeah, I'm sorry, Jesse, I'm, I'm, must not be. What I meant is that you've done stuff, because this is called a trail across the stars, and you have characters, and it's doing things. But you must have started with, with an initial launch in Ren P.
+
+00:25:29.000 --> 00:25:35.000
+David Smith: You know, like a brand new game. Say it's not this game. Say that you're starting from scratch.
+
+00:25:35.000 --> 00:25:42.000
+David Smith: What's the — I just want to know what the first — what the project looks like in RENP from just the very beginning.
+
+00:25:42.000 --> 00:25:45.000
+Jessie Chan: Ah, they give you, uh…
+
+00:25:42.000 --> 00:25:44.000
+David Smith: Not…
+
+00:25:44.000 --> 00:25:48.000
+David Smith: Yeah, I mean, just if you could bring up what the brick —.
+
+00:25:46.000 --> 00:25:49.000
+Jessie Chan: They give you a default template.
+
+00:25:48.000 --> 00:25:52.000
+David Smith: Yeah, that's what I want to see, the default template, yeah.
+
+00:25:49.000 --> 00:25:51.000
+Jessie Chan: That you can work with.
+
+00:25:52.000 --> 00:25:58.000
+Jessie Chan: Yeah, they give you a default template you can work with, and I just deleted it and rewrote it.
+
+00:25:54.000 --> 00:25:56.000
+David Smith: Mm-hmm.
+
+00:25:58.000 --> 00:26:03.000
+David Smith: Okay, so you know Ren P. Enough that.
+
+00:26:03.000 --> 00:26:15.000
+David Smith: you already know what you're going to do when you launch it. So you just… yeah, okay. So all of the things on the side, those menu items and things, were things that you put in as part of the… part of the, um…
+
+00:26:05.000 --> 00:26:07.000
+Jessie Chan: Yeah, I do.
+
+00:26:15.000 --> 00:26:20.000
+David Smith: The new template, I guess to say, for this. Okay.
+
+00:26:17.000 --> 00:26:20.000
+Jessie Chan: Yeah. Yeah, I did.
+
+00:26:20.000 --> 00:26:22.000
+David Smith: Good. Okay, great.
+
+00:26:21.000 --> 00:26:22.000
+Jessie Chan: Okay.
+
+00:26:22.000 --> 00:26:36.000
+David Smith: Okay, well, I mean, it's quite clear that you have the entry portal, you know how to create the environment, and um… and I'm assuming, then, for next week, it's about narrative development? Is that what you're thinking?
+
+00:26:35.000 --> 00:26:39.000
+Jessie Chan: Yeah, it is. Yeah, next week I'm working on the script.
+
+00:26:36.000 --> 00:26:37.000
+David Smith: Okay.
+
+00:26:39.000 --> 00:26:44.000
+David Smith: Okay, so how much of that do you want to have done by, say, next Thursday?
+
+00:26:44.000 --> 00:26:50.000
+Jessie Chan: I want to at least have a good chunk of the beginning.
+
+00:26:49.000 --> 00:26:50.000
+David Smith: Mm-hmm.
+
+00:26:50.000 --> 00:26:52.000
+Jessie Chan: By next week.
+
+00:26:51.000 --> 00:27:06.000
+David Smith: OK. And I'm assuming it's nonlinear on some level. So even though we have an introductory script and things that are going to happen, that since the user has choices, you have to build a branching narrative or something like that?
+
+00:27:04.000 --> 00:27:07.000
+Jessie Chan: Yeah, I do. Yeah.
+
+00:27:06.000 --> 00:27:15.000
+David Smith: Okay, yeah. So you might want to also, just considering it, that you have a good chunk of the beginning, but maybe that you sort of wireframe.
+
+00:27:15.000 --> 00:27:32.000
+David Smith: Super high level, what are the different types of paths or possibilities or something without writing any text or any of that whatsoever, but just so that we start to get a feel for what the map is of where different people can go.
+
+00:27:32.000 --> 00:27:50.000
+David Smith: And you don't have to sketch it out completely, but just an idea that, you know, there are certain kinds of goals. There are probably win conditions, or lose conditions, or it's just an experience thing and we're not keeping points, but that there's some kind of a frame for the size of the universe that.
+
+00:27:33.000 --> 00:27:34.000
+Jessie Chan: Okay.
+
+00:27:50.000 --> 00:27:53.000
+David Smith: Uh, that you're…
+
+00:27:53.000 --> 00:27:55.000
+David Smith: players are going to be working with.
+
+00:27:55.000 --> 00:27:57.000
+Jessie Chan: Okay.
+
+00:27:55.000 --> 00:28:11.000
+David Smith: So that might… I think that'd be just another useful thing to think about. So you're starting from sort of the bottom up with writing the first section with the text, but you're also working from the top down. So you can say that we're going to have three different places they're going to, and…
+
+00:28:11.000 --> 00:28:26.000
+David Smith: These are the ways that they go. I don't know how deeply to go there. That's for you to puzzle out. But it's also very useful to start to think about the overall scope of the universe that you're working within as well. So you don't run in, you know, okay.
+
+00:28:24.000 --> 00:28:25.000
+Jessie Chan: Okay.
+
+00:28:26.000 --> 00:28:28.000
+Jessie Chan: Okay.
+
+00:28:26.000 --> 00:28:31.000
+David Smith: Good. Great. Good work. I'm excited.
+
+00:28:31.000 --> 00:28:36.000
+David Smith: Okay, so does someone else want to jump in?
+
+00:28:37.000 --> 00:28:39.000
+JJ Liriano: I can jump in real quick.
+
+00:28:39.000 --> 00:28:41.000
+David Smith: Okay, go ahead.
+
+00:28:41.000 --> 00:28:47.000
+JJ Liriano: Alright. So what I've been doing is I've been asking around and checking online.
+
+00:28:47.000 --> 00:28:57.000
+JJ Liriano: the the things like the things I could do to make my project different from what's already out there. For example, like Reddit.
+
+00:28:56.000 --> 00:28:58.000
+David Smith: Mm-hmm. Mm-hmm.
+
+00:28:57.000 --> 00:28:59.000
+JJ Liriano: And…
+
+00:28:59.000 --> 00:29:01.000
+JJ Liriano: A lot of people told me that, like.
+
+00:29:01.000 --> 00:29:05.000
+JJ Liriano: It's a they feel like it's already like different enough.
+
+00:29:05.000 --> 00:29:06.000
+David Smith: Yeah.
+
+00:29:05.000 --> 00:29:10.000
+JJ Liriano: Um, but I, I said that, um, one thing I saw online.
+
+00:29:10.000 --> 00:29:15.000
+JJ Liriano: was I can make it more. How do you say more?
+
+00:29:15.000 --> 00:29:21.000
+JJ Liriano: More of a personal thing, rather than, like, just get on any… any board.
+
+00:29:21.000 --> 00:29:22.000
+David Smith: Mm-hmm.
+
+00:29:21.000 --> 00:29:28.000
+JJ Liriano: And the personal part is the the whole like. It could be gone at any moment. So like this is like something that you know.
+
+00:29:28.000 --> 00:29:33.000
+JJ Liriano: I guess in a way you should like cherish like the chat between like two people more.
+
+00:29:33.000 --> 00:29:34.000
+David Smith: Mm-hmm.
+
+00:29:33.000 --> 00:29:38.000
+JJ Liriano: And I I think I'm gonna make it in a way where, like, once I'm done with like.
+
+00:29:38.000 --> 00:29:42.000
+JJ Liriano: the broad of everything. I wanted to have…
+
+00:29:42.000 --> 00:29:46.000
+JJ Liriano: have it make it so that you could customize your own homepage.
+
+00:29:46.000 --> 00:29:47.000
+David Smith: Okay.
+
+00:29:46.000 --> 00:29:56.000
+JJ Liriano: So, for example, you have, like, eight different chats. You can move around the chat boards on your screen, like widgets, like the widgets on your, on your home page.
+
+00:29:54.000 --> 00:30:03.000
+David Smith: Yeah, you can drag them around, you can decorate it, maybe you have color schemes you can pick, or little images, yeah. And then, yeah.
+
+00:29:58.000 --> 00:29:59.000
+JJ Liriano: Yeah.
+
+00:29:59.000 --> 00:30:01.000
+JJ Liriano: Yeah.
+
+00:30:01.000 --> 00:30:05.000
+JJ Liriano: So yeah. So rather than just like ready, it will be like your personal thing.
+
+00:30:04.000 --> 00:30:20.000
+David Smith: Yeah, and then what also might be useful, just sort of thinking through what your whole project is, the idea that if you win badges because you left five comments on other people's things or something like that, that you start, you know, people start to get awards or something for…
+
+00:30:20.000 --> 00:30:22.000
+David Smith: Participation.
+
+00:30:20.000 --> 00:30:31.000
+JJ Liriano: Yeah. And it'll feel alive, too, because, like, you can have a customized, like, board, but it could be gone, and you have to, like, cus keep customizing it as, you know, time goes on.
+
+00:30:22.000 --> 00:30:23.000
+David Smith: Or…
+
+00:30:30.000 --> 00:30:32.000
+David Smith: Yeah.
+
+00:30:31.000 --> 00:30:33.000
+JJ Liriano: So we'll make it feel more alive.
+
+00:30:32.000 --> 00:30:35.000
+David Smith: Mm-hmm. Okay, and…
+
+00:30:33.000 --> 00:30:36.000
+JJ Liriano: So that's one, that's how I fix it.
+
+00:30:35.000 --> 00:30:58.000
+David Smith: Yeah, and that's, you know, and as Professor Alji said, you know, even if there isn't a commercial, you know, even if we can't really find the way to commercialize it, the act of doing it is going to be so good for you in terms of developing your stack, and it's going to be a wonderful portfolio item. And in fact, you might want to consider that the application you're building is your portfolio.
+
+00:30:59.000 --> 00:31:00.000
+JJ Liriano: Yeah.
+
+00:31:00.000 --> 00:31:20.000
+David Smith: I mean, this is an idea I just came up with right now thinking about what you're doing. But isn't that lovely, wonderfully recursive that my portfolio is based on a platform that I created? And here's the platform in my portfolio as part of my portfolio, but you're also on the platform.
+
+00:31:20.000 --> 00:31:21.000
+David Smith: form.
+
+00:31:21.000 --> 00:31:26.000
+David Smith: So there's something vaguely interesting in there to me.
+
+00:31:26.000 --> 00:31:27.000
+David Smith: um…
+
+00:31:28.000 --> 00:31:33.000
+David Smith: But, okay, so what's your plan? What do you want to do, get done in the next week?
+
+00:31:34.000 --> 00:31:38.000
+JJ Liriano: Uh, and then next week, I want to…
+
+00:31:36.000 --> 00:31:37.000
+David Smith: Yeah.
+
+00:31:38.000 --> 00:31:43.000
+JJ Liriano: I guess the layout of of everything, like how everything's gonna look on the page.
+
+00:31:40.000 --> 00:31:41.000
+David Smith: Mm-hmm.
+
+00:31:43.000 --> 00:31:47.000
+David Smith: Okay, so wireframing and…
+
+00:31:43.000 --> 00:31:45.000
+JJ Liriano: Um, and that…
+
+00:31:45.000 --> 00:31:51.000
+JJ Liriano: Yeah, pretty much the wireframing, because I need to know how, like, the boards and how your homepage will look like.
+
+00:31:51.000 --> 00:31:52.000
+David Smith: Yeah, yeah, yeah.
+
+00:31:51.000 --> 00:31:53.000
+JJ Liriano: And then…
+
+00:31:53.000 --> 00:31:59.000
+JJ Liriano: Yeah, I think at least for this week, that'll be the first thing, because I need to know, like, how to code things and where to put everything.
+
+00:31:56.000 --> 00:31:57.000
+David Smith: Yeah.
+
+00:31:59.000 --> 00:32:08.000
+David Smith: Yeah, first you want the visual layout. What I recommend is… is… don't, like, just do one. Do, like, 5 different visual layouts. Do…
+
+00:32:07.000 --> 00:32:08.000
+JJ Liriano: Yeah.
+
+00:32:08.000 --> 00:32:20.000
+David Smith: you know, experiment with different ones, because we never know. If you do one and it's good… I think I use my chess term metaphor, right? There's a famous grandmaster that said, if you find a good move, look for a better move.
+
+00:32:20.000 --> 00:32:31.000
+David Smith: So, you know, if you find a good layout, try another layout. It might not be the best layout. What does it mean if they're on the side, or if they're across the top? What is it, you know, there are different ways that.
+
+00:32:31.000 --> 00:32:43.000
+David Smith: Um, that helps, and then you'll… then you'll have sort of a cluster of different types of ideas, and then we can bring this to the class, you know, next week, and uh…
+
+00:32:43.000 --> 00:32:59.000
+David Smith: You know, we can take an opinion poll or whatever. In the end, it's your project, but it's always useful to get user feedback because you're so close to it. You get so close to the project that you make assumptions about what other people know because you know it. Of course it's one of these.
+
+00:32:59.000 --> 00:33:13.000
+David Smith: So it's always useful to bring it back to the team and see if they can figure it out as well. Is it obvious? Is it interesting? You know, what works and what doesn't work? So I think that's good.
+
+00:33:13.000 --> 00:33:16.000
+David Smith: So by next week, you can have some mockups.
+
+00:33:16.000 --> 00:33:19.000
+David Smith: How would you do that? What, what?
+
+00:33:19.000 --> 00:33:23.000
+David Smith: Envi… excuse me, what environment would you do that within?
+
+00:33:24.000 --> 00:33:28.000
+JJ Liriano: Um, well, first I'm gonna draw it out, and then I will choose…
+
+00:33:29.000 --> 00:33:31.000
+JJ Liriano: I think I did Figma.
+
+00:33:31.000 --> 00:33:38.000
+JJ Liriano: Or Canva, I think. Um, I haven't used Canva to make, um, wireframes, I think, but I know Figma a little bit.
+
+00:33:31.000 --> 00:33:33.000
+David Smith: Okay. Okay.
+
+00:33:38.000 --> 00:33:39.000
+David Smith: Okay.
+
+00:33:38.000 --> 00:33:49.000
+JJ Liriano: Yeah. But I do. I do want to draw it out as well as possible, because I think once you draw it out, it's easier to just put it onto like something digital. So that's it. It's those 2, those.
+
+00:33:46.000 --> 00:33:48.000
+David Smith: Mm-hmm.
+
+00:33:49.000 --> 00:33:55.000
+JJ Liriano: Yeah. So so drawing it and then either Figma or Canva, it's gonna be the two main ones.
+
+00:33:54.000 --> 00:34:04.000
+David Smith: Yeah, okay, so that's good. So what we'll expect to see next week is that you have some wireframes, you can share them with the class, maybe show some mock-ups of what they look like.
+
+00:34:04.000 --> 00:34:16.000
+David Smith: Of course, you can do other stuff as well, but I think that's a really good, um, sort of arrival point. What about the back-end stuff? Because what… what do you want to show for your POC?
+
+00:34:16.000 --> 00:34:25.000
+David Smith: At the end of the semester, what would you like to be able to demonstrate to show that you know enough that the jury will feel comfortable.
+
+00:34:25.000 --> 00:34:35.000
+JJ Liriano: creating the chats. I think that's like the most important like, I'm gonna show that like, Hey, I already know you insert this in the end. A chat will be created.
+
+00:34:25.000 --> 00:34:26.000
+David Smith: giving you anymore.
+
+00:34:35.000 --> 00:34:53.000
+David Smith: Okay, so what we'll do is we'll have a framework, and I'm gonna imagine that we can have these layouts. We're not necessarily talking about moving stuff around yet for the proof of concept, but that we have something that is the platform, up it comes, and then there's a chat, and you have the chat.
+
+00:34:53.000 --> 00:34:54.000
+David Smith: Implemented.
+
+00:34:54.000 --> 00:34:56.000
+David Smith: And…
+
+00:34:56.000 --> 00:34:59.000
+David Smith: This is persistent chat, right?
+
+00:35:00.000 --> 00:35:05.000
+JJ Liriano: Uh, well, it's… yeah, it's more of a… I say, um…
+
+00:35:05.000 --> 00:35:08.000
+JJ Liriano: A board? I forget, uh…
+
+00:35:06.000 --> 00:35:17.000
+David Smith: Yeah, that's what I was saying. It sounds more like a board. So it's a board. Yeah, and so you're storing the board, and so that's what you… that's what you want to have. And then I can imagine, though, sort of a non-p.
+
+00:35:08.000 --> 00:35:10.000
+JJ Liriano: Yeah. Yeah, yeah, yeah.
+
+00:35:17.000 --> 00:35:30.000
+David Smith: chat on the side, you know, that just sort of scrolls up for people to say things within the main, but that's not necessarily part of what you need to do. And that makes sense to me. So if you build… if you have the stack.
+
+00:35:31.000 --> 00:35:39.000
+David Smith: And so you have the back end, you have the front end, and you have the middleware, and I guess you're gonna need, if you have a discussion board.
+
+00:35:39.000 --> 00:35:47.000
+David Smith: How much of that is built in, and how much of… I mean, how much of that can you find a library or something that just gives you the discussion board?
+
+00:35:48.000 --> 00:35:52.000
+David Smith: Or is this something you're planning on building up from scratch?
+
+00:35:49.000 --> 00:35:50.000
+JJ Liriano: And…
+
+00:35:51.000 --> 00:35:55.000
+JJ Liriano: Yes, and the discussion board…
+
+00:35:55.000 --> 00:36:02.000
+JJ Liriano: from what I know is from scratch. The the other Apis is the the libraries.
+
+00:36:02.000 --> 00:36:04.000
+David Smith: Right.
+
+00:36:04.000 --> 00:36:05.000
+David Smith: Okay.
+
+00:36:04.000 --> 00:36:08.000
+JJ Liriano: So, from… yeah, so for right now, the discussion boards are from scratch, I think.
+
+00:36:08.000 --> 00:36:17.000
+David Smith: Yeah, okay, so that's what you're gonna say. I built this discussion board from scratch. But what's the language you're working in? What's your IDE or whatever?
+
+00:36:18.000 --> 00:36:19.000
+JJ Liriano: I…
+
+00:36:19.000 --> 00:36:21.000
+JJ Liriano: Javascript.
+
+00:36:20.000 --> 00:36:22.000
+David Smith: JavaScript.
+
+00:36:21.000 --> 00:36:25.000
+JJ Liriano: and react. Those are the 2 that I need the most.
+
+00:36:27.000 --> 00:36:30.000
+JJ Liriano: And of course, HTML and CSS.
+
+00:36:30.000 --> 00:36:32.000
+David Smith: Yeah, all that.
+
+00:36:32.000 --> 00:36:34.000
+JJ Liriano: Thank you.
+
+00:36:37.000 --> 00:36:40.000
+David Smith: I don't want to go there.
+
+00:36:45.000 --> 00:36:49.000
+David Smith: So they're suggesting Mongo.
+
+00:36:50.000 --> 00:36:53.000
+David Smith: DB, but you were thinking of…
+
+00:36:53.000 --> 00:36:57.000
+David Smith: Postgres? What were you thinking for your database?
+
+00:36:58.000 --> 00:36:59.000
+JJ Liriano: And…
+
+00:37:01.000 --> 00:37:03.000
+JJ Liriano: I'll check it, um…
+
+00:37:05.000 --> 00:37:08.000
+JJ Liriano: I think… I think it's Mongo? I think it was?
+
+00:37:08.000 --> 00:37:11.000
+JJ Liriano: I gotta check again, because it's on my, uh…
+
+00:37:09.000 --> 00:37:17.000
+David Smith: Yeah, it's probably Mongo. I mean, that's super, super common. And I've worked with that. It works pretty well.
+
+00:37:13.000 --> 00:37:14.000
+JJ Liriano: Yeah.
+
+00:37:17.000 --> 00:37:19.000
+David Smith: Umm.
+
+00:37:20.000 --> 00:37:24.000
+David Smith: Okay, so… there are some…
+
+00:37:25.000 --> 00:37:29.000
+David Smith: For example, I'm just going to…
+
+00:37:29.000 --> 00:37:33.000
+David Smith: Maybe I'll just share my screen for right now.
+
+00:37:34.000 --> 00:37:40.000
+David Smith: Uh, because my… oh, here, share. My rule is that…
+
+00:37:42.000 --> 00:37:45.000
+David Smith: You don't have to write it if it's already written.
+
+00:37:46.000 --> 00:37:49.000
+David Smith: So this is…
+
+00:37:49.000 --> 00:37:56.000
+David Smith: An open source forum with the look and features of Discourse, built with Go and Next.js.
+
+00:38:02.000 --> 00:38:07.000
+David Smith: I mean, there's two different directions, of course, JJ. You know, I… what I'm, um…
+
+00:38:07.000 --> 00:38:18.000
+David Smith: if you're doing it because you want to learn how to code and build one of those, that's fantastic. But another option is that you find something out there that's already a library or a plugin or something like that.
+
+00:38:18.000 --> 00:38:22.000
+David Smith: and just run it, and then you integrate that into your larger system.
+
+00:38:22.000 --> 00:38:25.000
+David Smith: Um, very often that's…
+
+00:38:25.000 --> 00:38:40.000
+David Smith: much more efficient, because you can imagine the thousands of hours that it takes to build some of these things up. And so if they already exist as a plugin, you know, as a library, or a plugin or a piece of open source that you can do yourself, then that.
+
+00:38:40.000 --> 00:38:46.000
+David Smith: is really nice in terms of productivity.
+
+00:38:46.000 --> 00:38:52.000
+David Smith: This is to everyone. Yeah. So that's this is this GitHub site.
+
+00:38:52.000 --> 00:38:56.000
+David Smith: And, uh… let's see…
+
+00:38:58.000 --> 00:39:02.000
+David Smith: Here's a next.js react.
+
+00:39:09.000 --> 00:39:14.000
+David Smith: Here's node.js and mongo forum app. What's this?
+
+00:39:15.000 --> 00:39:17.000
+David Smith: A simple forum app.
+
+00:39:18.000 --> 00:39:20.000
+David Smith: Using Mern.
+
+00:39:22.000 --> 00:39:32.000
+David Smith: I'm just throwing these in here. I leave it to you, because, you know, certainly if you want to create the entire discussion board, et cetera, from scratch.
+
+00:39:32.000 --> 00:39:49.000
+David Smith: I'll go for it. But if you're thinking about maybe that this is just one component of many, maybe there's a way that you can take some open source, import it, and then modify it to make it work the way that you want to. As you can see, I spent — I don't know.
+
+00:39:49.000 --> 00:39:58.000
+David Smith: 15 seconds doing this particular search, so if you go… if you become a little bit more in-depth about it, you might find some other things as well.
+
+00:39:58.000 --> 00:40:06.000
+David Smith: Uh, what's your thought? What… what are you… what are you thinking? I'm… I have… I'm completely agnostic. It's up to you in terms of the direction you want to go.
+
+00:40:07.000 --> 00:40:10.000
+JJ Liriano: Um, I am…
+
+00:40:10.000 --> 00:40:15.000
+JJ Liriano: I'm gonna go always from, like, simplest to most complicated, because I do want to have, like.
+
+00:40:15.000 --> 00:40:20.000
+JJ Liriano: something to show always, if I do find, like, plugins for, like.
+
+00:40:20.000 --> 00:40:26.000
+JJ Liriano: The discussion boards, anything else. And all I do is like, plug it in. Yeah, I'll do that. Um.
+
+00:40:21.000 --> 00:40:23.000
+David Smith: Mm-hmm.
+
+00:40:26.000 --> 00:40:32.000
+JJ Liriano: But yeah, I… HTML, then CSS, then JavaScript, then React.
+
+00:40:32.000 --> 00:40:35.000
+JJ Liriano: Uh, then the APIs…
+
+00:40:34.000 --> 00:40:36.000
+David Smith: Mm-hmm.
+
+00:40:35.000 --> 00:40:45.000
+JJ Liriano: Um, and then, uh, the customization, read the ending, and then if I have time, I'll maybe do the live chats, but that's only if I have time.
+
+00:40:45.000 --> 00:40:46.000
+David Smith: Mm-hmm.
+
+00:40:45.000 --> 00:40:50.000
+JJ Liriano: But yeah, that's how I'm going to go about it. So I'm going to keep it as simple as possible.
+
+00:40:48.000 --> 00:40:50.000
+David Smith: Yeah, okay. Yeah.
+
+00:40:50.000 --> 00:41:00.000
+David Smith: Right. And another thing you can do, though, is even if you plan on doing the deployment completely yourself for the proof of concept, you can say, I'm going to build my own discussion board, but.
+
+00:41:00.000 --> 00:41:07.000
+David Smith: Here's my plug-in discussion board that I'm doing just to show how it sets up within the environment to be replaced later, or changed later.
+
+00:41:07.000 --> 00:41:23.000
+David Smith: Um, I think overall, if you have any one of these things up and running with the layout, and I'm assuming then that you would build this in such a way that you could provide a URL so people can come in and try it out during the demo, or is this something that would only live locally?
+
+00:41:24.000 --> 00:41:26.000
+JJ Liriano: And…
+
+00:41:26.000 --> 00:41:34.000
+David Smith: It can be either. There's no need… there's no need for it to be, um, production or, you know, out there.
+
+00:41:27.000 --> 00:41:29.000
+JJ Liriano: Okay, yeah.
+
+00:41:34.000 --> 00:41:37.000
+David Smith: Yet, but it would be really.
+
+00:41:35.000 --> 00:41:44.000
+JJ Liriano: Yeah. It's eventually yeah. I do I do eventually want it to be a URL, but I guess if it's simpler, first local, and then I'll I'll get to that.
+
+00:41:43.000 --> 00:41:57.000
+David Smith: Yeah. OK. So for the least viable LVP, you're definitely going to want to be able to say, here's the QR code or here's the link, and people can go to it and try it out.
+
+00:41:57.000 --> 00:41:58.000
+JJ Liriano: Here.
+
+00:41:58.000 --> 00:42:13.000
+David Smith: Because if people can't do that, then your social media is done. If people can't get to it, then it doesn't count. So that then becomes an important thing. But we don't need to do that for this December.
+
+00:42:03.000 --> 00:42:05.000
+JJ Liriano: In there.
+
+00:42:13.000 --> 00:42:19.000
+David Smith: But if we can, even if it's just that they get there and they land on the platform and they can see something.
+
+00:42:19.000 --> 00:42:22.000
+David Smith: That would be very convincing.
+
+00:42:22.000 --> 00:42:23.000
+David Smith: So…
+
+00:42:23.000 --> 00:42:25.000
+David Smith: um…
+
+00:42:25.000 --> 00:42:28.000
+David Smith: Anyway, that's… I'm not sure exactly…
+
+00:42:28.000 --> 00:42:39.000
+David Smith: where you would do that integrated, or what the URL might be, but if it's possible, I would recommend being able to do that by December.
+
+00:42:40.000 --> 00:42:42.000
+JJ Liriano: Okay.
+
+00:42:41.000 --> 00:42:57.000
+David Smith: But you don't need to, as I said, if it does, if it ends up not happening. But you do then need to in your design document of what it is that you're going to be providing at the end of next semester. You do need to list the different types of.
+
+00:42:57.000 --> 00:42:58.000
+David Smith: Okay.
+
+00:42:58.000 --> 00:43:10.000
+David Smith: capabilities. You want to be able to sketch it out quite well. And we don't have to be there, but we have to be able to describe what it is that we're going to be providing.
+
+00:43:12.000 --> 00:43:13.000
+David Smith: Okay?
+
+00:43:13.000 --> 00:43:15.000
+JJ Liriano: Yeah, sounds good.
+
+00:43:14.000 --> 00:43:22.000
+David Smith: Good. Okay, so that's your goal for next week. You'll be showing us some wireframes, and uh…
+
+00:43:23.000 --> 00:43:26.000
+David Smith: What was the other thing? What were we saying?
+
+00:43:26.000 --> 00:43:30.000
+JJ Liriano: Uh, for this week, I think it was just the wireframes, but on, like, joint and…
+
+00:43:30.000 --> 00:43:32.000
+JJ Liriano: and digitally.
+
+00:43:35.000 --> 00:43:42.000
+David Smith: Yeah, I think also just, I think a little more conceptually, maybe it's already in your make it specific.
+
+00:43:42.000 --> 00:43:48.000
+David Smith: But start thinking about what are the features that I want to be able to, um…
+
+00:43:48.000 --> 00:43:49.000
+David Smith: Pull off.
+
+00:43:49.000 --> 00:43:56.000
+David Smith: at the end of the culmination project? Not for the full vision, but what is it that we're going to be able to provide?
+
+00:43:57.000 --> 00:44:04.000
+David Smith: Because that becomes an important part of the document, right? We have to show the POC, but we also have to say, but this is what I'm going to do next semester.
+
+00:44:06.000 --> 00:44:07.000
+JJ Liriano: Okay.
+
+00:44:07.000 --> 00:44:12.000
+David Smith: Okay, good. So who wants to go next?
+
+00:44:17.000 --> 00:44:20.000
+David Smith: Okay, then I'm just going to do it in order. Patrick.
+
+00:44:22.000 --> 00:44:24.000
+Patrick Mannix: Uh…
+
+00:44:24.000 --> 00:44:26.000
+Patrick Mannix: I'll do it.
+
+00:44:26.000 --> 00:44:29.000
+Patrick Mannix: How do I show my screen after I entered?
+
+00:44:28.000 --> 00:44:34.000
+David Smith: Yeah, I would love to. Yeah, I would. I would love to see it. Oh, let me stop my share. There we go. Okay.
+
+00:44:31.000 --> 00:44:33.000
+Patrick Mannix: Or… namaste.
+
+00:44:33.000 --> 00:44:38.000
+Patrick Mannix: My camera. I'm not my screen.
+
+00:44:38.000 --> 00:44:40.000
+Patrick Mannix: uh…
+
+00:44:39.000 --> 00:44:41.000
+David Smith: Oh yeah, I see that it says Nick.
+
+00:44:40.000 --> 00:44:41.000
+Patrick Mannix: Yes.
+
+00:44:43.000 --> 00:44:46.000
+Patrick Mannix: I'm gonna show my camera after entering.
+
+00:44:48.000 --> 00:44:53.000
+David Smith: Yeah, because you have the camera with the line through it is what I see on the…
+
+00:44:53.000 --> 00:44:55.000
+David Smith: On Zoom.
+
+00:44:54.000 --> 00:44:58.000
+Patrick Mannix: Yeah, I might need to re-enter this.
+
+00:44:57.000 --> 00:45:03.000
+David Smith: I think so. Why don't you quit out, see if you can get that camera working as soon as you're back.
+
+00:45:03.000 --> 00:45:05.000
+David Smith: Uh, we'll pick up with you.
+
+00:45:05.000 --> 00:45:09.000
+David Smith: And while you're doing that, Patrick, let's switch to Aidan.
+
+00:45:12.000 --> 00:45:14.000
+Aydin Doner: Uh, what do you have to say?
+
+00:45:15.000 --> 00:45:19.000
+David Smith: Uh, yeah, so we… I just want you to talk…
+
+00:45:21.000 --> 00:45:24.000
+David Smith: Got out of the, um…
+
+00:45:24.000 --> 00:45:33.000
+David Smith: the feedback, what your ideas are for, uh, the… what you think the proof of concept is going to be.
+
+00:45:33.000 --> 00:45:38.000
+David Smith: And then also, uh, what it is that you want to get done by next week.
+
+00:45:38.000 --> 00:45:43.000
+Aydin Doner: Oh, um… I took the advice, and I decided to just…
+
+00:45:43.000 --> 00:45:49.000
+Aydin Doner: change it up. So instead of, like, music and sounds, I'm just gonna do sounds.
+
+00:45:48.000 --> 00:45:50.000
+David Smith: Okay.
+
+00:45:49.000 --> 00:45:54.000
+Aydin Doner: I feel like there's a lot of, like, DAWs that are, like, better.
+
+00:45:54.000 --> 00:46:02.000
+Aydin Doner: that, like, Logica is really great and Ableton's really great, so I just want to put, like, my own spin to it and just, like, only do sounds.
+
+00:46:01.000 --> 00:46:13.000
+David Smith: Yeah, and I think that works as well, because all music is sound, but not all sound is music. So even if you're only doing sounds, you can still put music in there. Music is a sound.
+
+00:46:13.000 --> 00:46:14.000
+Aydin Doner: Yep.
+
+00:46:13.000 --> 00:46:21.000
+David Smith: So, it gives you a way of back-ending in, so that as the device becomes more sophisticated, I think…
+
+00:46:21.000 --> 00:46:28.000
+David Smith: I think, to me, the intriguing idea is that it's something in your pocket.
+
+00:46:28.000 --> 00:46:31.000
+David Smith: That does things.
+
+00:46:31.000 --> 00:46:35.000
+David Smith: that could also be done on a DAW.
+
+00:46:35.000 --> 00:46:37.000
+David Smith: But that does them super easy.
+
+00:46:37.000 --> 00:46:44.000
+David Smith: You know, maybe it gives you some ability. I don't know what that is quite yet.
+
+00:46:44.000 --> 00:47:00.000
+David Smith: And I love the idea of being able to just, if it's on a phone, that you have a microphone, either upload a sound that you created from before, you can pull a sound from the library, maybe you have a, you know, maybe you have a default set of sounds, you know, puppy dog and fire siren and.
+
+00:47:00.000 --> 00:47:17.000
+David Smith: lightning bolt, or whatever, that's already on the application, but then that you have an opportunity to fill it in. And then if you have a screen, and you could do… and you could have, like, 20 or 40 different buttons, and all the sounds come up, and you can slide around, there might be interesting kinds of gestures.
+
+00:47:17.000 --> 00:47:39.000
+David Smith: You might have ways of being able to touch two sounds at the same time, and they sort of merge them together. I'm not saying that you have to do all of this by the end. I'm just saying that thinking about what it does and how cool it might be able to be is where we want to think about. And I agree, if you stay away from the idea that I also have to deal with harmony.
+
+00:47:39.000 --> 00:47:51.000
+David Smith: tempo and rhythm and color, that's a lot. But the whole idea of having, like, a sound painter, right? I have a bunch… here's a bunch of sounds, you can add your own sounds, and you can do all sorts of cool things with it.
+
+00:47:51.000 --> 00:47:59.000
+David Smith: And then what we can do is we can start to talk about sort of two different areas. What does the interface do?
+
+00:47:59.000 --> 00:48:01.000
+David Smith: What does it do? How does it work?
+
+00:48:01.000 --> 00:48:24.000
+David Smith: And this can be highly speculative and you want to think about something that other devices are not doing. And I love the idea of just staying away from a musical controller because there's just so much of it. Look, you know, there's my keyboard, you know, there are all sorts of these types of things that are out there. What you want to do is think of what your use case is, which is really.
+
+00:48:25.000 --> 00:48:40.000
+David Smith: sort of a mobile thing that does cool stuff, and then maybe, you know, you do the performance and the sound, and you like it so you can record it, and it turns it into an audio file, and then that's another sound, or you can outload it. So I think you'll want to think about…
+
+00:48:40.000 --> 00:48:50.000
+David Smith: the types of things that you might want it to do, and I'm happy to sit with you and come up with a whole list, but you need to sort of brainstorm some of it yourself.
+
+00:48:50.000 --> 00:48:58.000
+David Smith: and think about… and I would think about it maybe more as, like, hey, I'm a… I'm a user, I'm not the… I'm not the creator, I'm a user.
+
+00:48:58.000 --> 00:49:00.000
+David Smith: What would be fun?
+
+00:49:00.000 --> 00:49:02.000
+David Smith: So.
+
+00:49:02.000 --> 00:49:08.000
+David Smith: that's, I think, where you want to think about in terms of developing a stronger, uh…
+
+00:49:09.000 --> 00:49:11.000
+David Smith: Uh, structure.
+
+00:49:11.000 --> 00:49:13.000
+David Smith: for that.
+
+00:49:13.000 --> 00:49:16.000
+David Smith: Does that make sense on some level?
+
+00:49:15.000 --> 00:49:17.000
+Aydin Doner: Yeah, in a sense. Makes sense.
+
+00:49:16.000 --> 00:49:23.000
+David Smith: Yeah, okay. Um, and then are you thinking… what's your platform that you're considering for this?
+
+00:49:23.000 --> 00:49:28.000
+Aydin Doner: Um, I'm planning on doing either an app, or a website, or a mixture of both.
+
+00:49:27.000 --> 00:49:30.000
+David Smith: Okay. Yeah.
+
+00:49:28.000 --> 00:49:30.000
+Aydin Doner: App and website.
+
+00:49:30.000 --> 00:49:35.000
+David Smith: Yeah, so you probably need to demonstrate.
+
+00:49:35.000 --> 00:49:39.000
+David Smith: Are you… is this an app that's gonna be in the… in the Mac store?
+
+00:49:39.000 --> 00:49:47.000
+Aydin Doner: Uh, an app that's in the Mac Store, the Google Play Store, and the Apple… the App Store.
+
+00:49:46.000 --> 00:49:49.000
+David Smith: Right? Okay? So that's.
+
+00:49:49.000 --> 00:50:00.000
+David Smith: Developing for both Apple and Android is significant. So that could be maybe something that we're not necessarily doing for the POC.
+
+00:50:00.000 --> 00:50:01.000
+David Smith: Um…
+
+00:50:01.000 --> 00:50:05.000
+David Smith: But you can do, um…
+
+00:50:06.000 --> 00:50:08.000
+David Smith: Uh, the test pilot.
+
+00:50:08.000 --> 00:50:17.000
+David Smith: Otherwise, I mean, it's so prohibitive to get onto the App Store because they're so concerned about security and so concerned about this stuff.
+
+00:50:17.000 --> 00:50:23.000
+David Smith: that it might be easier to go on to the Android store, which is much more flexible.
+
+00:50:23.000 --> 00:50:24.000
+David Smith: Um…
+
+00:50:24.000 --> 00:50:33.000
+David Smith: But you don't have to end up putting it onto the app store itself to show it. You can use the test pilot. Right, that's what it's called.
+
+00:50:33.000 --> 00:50:35.000
+David Smith: And.
+
+00:50:33.000 --> 00:50:36.000
+Aydin Doner: Uh, test flight. Test flight.
+
+00:50:35.000 --> 00:50:50.000
+David Smith: Test flight. Yeah, test flight, that's right. So you put it into test flight, and you can do it there. It's just not public, but you can work it, and then you have to get a developer license, and then you can invite other people to share it, so we can have another person to demonstrate.
+
+00:50:50.000 --> 00:50:55.000
+David Smith: Um, the other idea, though, is the web page…
+
+00:50:55.000 --> 00:50:57.000
+David Smith: If it's dynamic.
+
+00:50:57.000 --> 00:51:04.000
+David Smith: Uh, would be platform agnostic, because you can get to the web page on your, on your…
+
+00:51:04.000 --> 00:51:19.000
+David Smith: iPhone or you can get it onto it from a computer and it might be an easier test environment depending on the latency. And it seems to me that it's would be much more interesting on a multi touch.
+
+00:51:19.000 --> 00:51:36.000
+David Smith: type of a display than it would be on a single computer where you've got a mouse and you can click on only one place. Unless, you know, people have touch screens here. I'm touching my screen. My screen isn't, but the idea that, you know, there are, there's also this other way.
+
+00:51:36.000 --> 00:51:39.000
+David Smith: So I want you to think about that.
+
+00:51:39.000 --> 00:51:45.000
+David Smith: For next week, and then think about what that user experience would be.
+
+00:51:45.000 --> 00:51:51.000
+David Smith: And basically, what you're saying is, hey, you want to turn sound into sort of some cool kind of music jam thing.
+
+00:51:51.000 --> 00:52:07.000
+David Smith: But we're only doing sounds. We're not worrying about pitch. We just have sounds. I mean, you might be able to shift the pitch of a sound up, right? So if I touch higher on the screen, we pitch shift, we frequency shift the sound up, and if it's lower, it gets lower, so it's slower.
+
+00:52:07.000 --> 00:52:19.000
+David Smith: You know, so that could be fun, and if you slide it up and down while it's on, that could be something else. So you will want to start to think about the types of gestures that might be interesting, and where those would live.
+
+00:52:20.000 --> 00:52:35.000
+David Smith: And I think if you can wrap your head around at least a tentative proposal for that, maybe with a layout, and say, these are the places that the buttons are, or these are the different types of things that I think you can do, then that's a good place that we can pick up on next week.
+
+00:52:35.000 --> 00:52:36.000
+David Smith: Um…
+
+00:52:37.000 --> 00:52:42.000
+David Smith: And what do you think you would want to provide for your proof of concept?
+
+00:52:42.000 --> 00:52:47.000
+Aydin Doner: Uh, probably just a wireframe. Probably start working on a wireframe.
+
+00:52:46.000 --> 00:52:49.000
+David Smith: Okay, um…
+
+00:52:47.000 --> 00:52:51.000
+Aydin Doner: Should show what the… what it will look like.
+
+00:52:52.000 --> 00:53:07.000
+David Smith: Well, I mean, that's something for next week as well as later. But I think you also need to show that you can write in JavaScript or write whatever the environment is, even if you just end up with, here's my web page and there are two buttons.
+
+00:53:07.000 --> 00:53:20.000
+David Smith: and I push this button and one sound plays, and I push this button and another sound plays, that would be enough to demonstrate that you have the competencies to be able to bring it to fruition.
+
+00:53:20.000 --> 00:53:31.000
+David Smith: And then you could show a wireframe and say, this is what I'm envisioning, and these are the different types of activities or actions that we're going to implement, and this is what the actions do.
+
+00:53:31.000 --> 00:53:37.000
+David Smith: And that's where we can talk about how to work our way deeper into that controller.
+
+00:53:37.000 --> 00:53:38.000
+David Smith: Um…
+
+00:53:38.000 --> 00:53:40.000
+David Smith: Seem reasonable?
+
+00:53:41.000 --> 00:53:42.000
+Aydin Doner: Seems reasonable.
+
+00:53:42.000 --> 00:53:47.000
+David Smith: Yeah, okay, so next week, I'll look forward to seeing your, um…
+
+00:53:47.000 --> 00:53:51.000
+David Smith: Uh, wireframe and your sketches and things like that.
+
+00:53:52.000 --> 00:53:55.000
+David Smith: Okay. Good. And Patrick?
+
+00:53:58.000 --> 00:54:01.000
+Patrick Mannix: So, a, uh…
+
+00:54:01.000 --> 00:54:05.000
+Patrick Mannix: oh from last week but we're doing this uh.
+
+00:54:05.000 --> 00:54:13.000
+Patrick Mannix: Uh, was, uh, like, was it, it was kind of, uh, difficult to, uh, retain information told to me by, uh.
+
+00:54:12.000 --> 00:54:13.000
+David Smith: Mmhm.
+
+00:54:14.000 --> 00:54:19.000
+Patrick Mannix: by the people who spoke on my presentation.
+
+00:54:19.000 --> 00:54:20.000
+David Smith: Right.
+
+00:54:19.000 --> 00:54:22.000
+Patrick Mannix: So, because we're not taking notes, right?
+
+00:54:22.000 --> 00:54:24.000
+Patrick Mannix: as a sample.
+
+00:54:24.000 --> 00:54:27.000
+Patrick Mannix: Or we can't because we are presenting and…
+
+00:54:29.000 --> 00:54:32.000
+David Smith: Right, but did you get the feedback forms?
+
+00:54:29.000 --> 00:54:30.000
+Patrick Mannix: Okay.
+
+00:54:32.000 --> 00:54:37.000
+Patrick Mannix: Uh… and if I were to look for them, where'd I go?
+
+00:54:37.000 --> 00:54:44.000
+David Smith: Yeah, so that's what we want to do. So there was an email that I sent that discussed your website.
+
+00:54:44.000 --> 00:54:52.000
+David Smith: And then let me look at the feedback forms because that becomes the important part.
+
+00:54:52.000 --> 00:55:02.000
+David Smith: We did not expect you to have to take notes when you were presenting, of course. And that's why I sent these forms. But let me hunt them down.
+
+00:55:04.000 --> 00:55:07.000
+David Smith: Let's see. Oh, that's why that's not working.
+
+00:55:08.000 --> 00:55:12.000
+David Smith: Where is 45? Oh, here.
+
+00:55:12.000 --> 00:55:15.000
+David Smith: 45, 0, 2, wait, 35, 0, 1.
+
+00:55:19.000 --> 00:55:22.000
+David Smith: And, um…
+
+00:55:30.000 --> 00:55:32.000
+David Smith: Certainly not that one.
+
+00:55:36.000 --> 00:55:40.000
+David Smith: Oh, I see why, because I'm not in GitHub. Here we are.
+
+00:55:40.000 --> 00:55:43.000
+David Smith: 35, 0, 1.
+
+00:55:47.000 --> 00:55:51.000
+David Smith: Fall 2026.
+
+00:55:53.000 --> 00:55:56.000
+David Smith: It's the class template.
+
+00:56:03.000 --> 00:56:05.000
+David Smith: There it is.
+
+00:56:17.000 --> 00:56:19.000
+David Smith: I do it here.
+
+00:56:26.000 --> 00:56:32.000
+David Smith: Did I send those on Brightspace or did I send people or did I?
+
+00:56:41.000 --> 00:56:43.000
+David Smith: Let's see.
+
+00:56:43.000 --> 00:56:45.000
+David Smith: There it is. Okay, is this it?
+
+00:56:48.000 --> 00:56:55.000
+David Smith: Yeah, here it is. Okay. So, uh, Patrick, I'm gonna email this to you, I think, might be the easiest way.
+
+00:56:56.000 --> 00:56:59.000
+David Smith: Um… I'm…
+
+00:56:58.000 --> 00:57:00.000
+Patrick Mannix: You can send it to my Outlook.
+
+00:57:01.000 --> 00:57:05.000
+David Smith: Okay. So let's see.
+
+00:57:09.000 --> 00:57:12.000
+David Smith: Patrick.Mannix88.
+
+00:57:12.000 --> 00:57:13.000
+Patrick Mannix: Yep, yep.
+
+00:57:13.000 --> 00:57:19.000
+David Smith: Okay, so here is your evaluation.
+
+00:57:19.000 --> 00:57:22.000
+David Smith: Let me attach it.
+
+00:57:25.000 --> 00:57:28.000
+David Smith: I gotta find it here. There it is.
+
+00:57:34.000 --> 00:57:37.000
+David Smith: Yep, those are the evaluations.
+
+00:57:39.000 --> 00:57:43.000
+David Smith: Let's get this out of the way. Sorry, I have too many things open.
+
+00:57:43.000 --> 00:57:47.000
+David Smith: Okay, so there we are. There you go.
+
+00:57:47.000 --> 00:57:52.000
+David Smith: And I'm looking also there was a I also sent a.
+
+00:57:54.000 --> 00:58:00.000
+David Smith: report on your repository. And I think it's this one.
+
+00:58:00.000 --> 00:58:02.000
+David Smith: Yeah, okay.
+
+00:58:02.000 --> 00:58:06.000
+David Smith: So there are two documents I'm sending to you.
+
+00:58:10.000 --> 00:58:11.000
+David Smith: Where is it here?
+
+00:58:11.000 --> 00:58:14.000
+David Smith: And here.
+
+00:58:18.000 --> 00:58:20.000
+David Smith: I don't want it there.
+
+00:58:21.000 --> 00:58:22.000
+David Smith: Good.
+
+00:58:25.000 --> 00:58:29.000
+Patrick Mannix: What? I can't hear you. It's like the song was too. I guess you're.
+
+00:58:28.000 --> 00:58:30.000
+David Smith: There it is.
+
+00:58:34.000 --> 00:58:36.000
+David Smith: Okay, so I just.
+
+00:58:36.000 --> 00:58:38.000
+David Smith: Wait.
+
+00:58:43.000 --> 00:58:46.000
+David Smith: Why would there be permission issues?
+
+00:58:51.000 --> 00:58:55.000
+David Smith: Well, I'm gonna hit send if they don't open.
+
+00:58:55.000 --> 00:58:57.000
+David Smith: Let me know.
+
+00:59:01.000 --> 00:59:02.000
+David Smith: Um…
+
+00:59:03.000 --> 00:59:18.000
+David Smith: Yeah. So, Patrick, I think I just sent them to you. Take a look in the email. This is the important assignment is to be able to take the feedback from the other faculty and also the GitHub.
+
+00:59:18.000 --> 00:59:28.000
+David Smith: repository report and start to update these things and modify what it is that you're doing based on the feedback.
+
+00:59:28.000 --> 00:59:32.000
+Patrick Mannix: Alright, but to keep in mind that, like.
+
+00:59:32.000 --> 00:59:36.000
+Patrick Mannix: With what a percentage, everything's sort of in place already.
+
+00:59:37.000 --> 00:59:43.000
+Patrick Mannix: Ultimately, I'm just going to progress what I already have so far.
+
+00:59:42.000 --> 00:59:46.000
+David Smith: Yeah, I want… yes, that's very important for me. I'd love to see it.
+
+00:59:59.000 --> 01:00:04.000
+Patrick Mannix: Uh, does it take time to get to an outlook? Uh…
+
+01:00:03.000 --> 01:00:07.000
+David Smith: Yeah, sometimes Outlook takes a while, and sometimes…
+
+01:00:09.000 --> 01:00:14.000
+David Smith: Let me look at the sent. There's nothing in my outbox. That means it was sent.
+
+01:00:16.000 --> 01:00:19.000
+David Smith: Patrick Mannix.
+
+01:00:20.000 --> 01:00:24.000
+David Smith: The two things are in there. It didn't say it bounced.
+
+01:00:23.000 --> 01:00:25.000
+Patrick Mannix: It just got to me now.
+
+01:00:24.000 --> 01:00:26.000
+David Smith: Okay, good.
+
+01:00:49.000 --> 01:00:52.000
+David Smith: And let me see.
+
+01:01:06.000 --> 01:01:17.000
+David Smith: So, I'm not asking that you evaluate it and do this in the context of today's class, because this should be something that is thoughtful.
+
+01:01:17.000 --> 01:01:21.000
+David Smith: I would recommend, let me take a look.
+
+01:01:21.000 --> 01:01:24.000
+David Smith: Am I sharing or not sharing?
+
+01:01:26.000 --> 01:01:30.000
+David Smith: Let's go to 35, 0, 1.
+
+01:01:37.000 --> 01:01:40.000
+David Smith: Okay, so I'm just going to share my screen.
+
+01:01:40.000 --> 01:01:44.000
+Patrick Mannix: I am running one of the evaluations right now.
+
+01:01:43.000 --> 01:01:45.000
+David Smith: I'm sorry?
+
+01:01:45.000 --> 01:01:48.000
+Patrick Mannix: I am currently reading one of the evaluations.
+
+01:01:53.000 --> 01:01:55.000
+David Smith: I don't know what.
+
+01:01:55.000 --> 01:01:58.000
+David Smith: I'm just going to show this real quick. So this is…
+
+01:01:58.000 --> 01:02:01.000
+David Smith: The assignment that we had from last week.
+
+01:02:01.000 --> 01:02:02.000
+Patrick Mannix: Yep.
+
+01:02:01.000 --> 01:02:11.000
+David Smith: And the idea is to consider the presentation and the repository feedback. It provides a variety of.
+
+01:02:11.000 --> 01:02:26.000
+David Smith: things, and we want to be able to get this into your project repository. Um, I'll say week 10 now, I mean, this is week 9, and I will point out that if we go to the landing page.
+
+01:02:26.000 --> 01:02:27.000
+David Smith: Here we go.
+
+01:02:30.000 --> 01:02:32.000
+David Smith: If I can…
+
+01:02:32.000 --> 01:02:33.000
+David Smith: There it is.
+
+01:02:33.000 --> 01:02:41.000
+David Smith: Here's the link. So you want to work through these activities based on the feedback forms that you received.
+
+01:02:41.000 --> 01:02:47.000
+David Smith: And then, what we'll be doing next week is that we will be…
+
+01:02:47.000 --> 01:02:48.000
+David Smith: Um, no.
+
+01:02:48.000 --> 01:03:04.000
+David Smith: Meeting here in person, and you'll each be presenting a little more in depth about what you've accomplished. I will introduce the agile sprint technique next week, and we'll take a look at the GitHub sites.
+
+01:03:04.000 --> 01:03:12.000
+David Smith: and start to talk about how these might be better framed, etc. I think what I'd like to do then, in the following week.
+
+01:03:12.000 --> 01:03:17.000
+David Smith: as I speculate, is that we'll meet as a class.
+
+01:03:17.000 --> 01:03:34.000
+David Smith: Uh, briefly, and that will also be on Zoom, and then I'll meet with each of you individually, and I can sort of… we can sort of work through your GitHub site together, and I can say, do something here, or this doesn't make sense, or I really like this. And, uh, but that will be two weeks from now.
+
+01:03:34.000 --> 01:03:35.000
+David Smith: Okay.
+
+01:03:36.000 --> 01:03:47.000
+David Smith: and I think that's really what I have for today, because in the end, this class is really, um, more about you working on the project and getting meaningful feedback. So…
+
+01:03:47.000 --> 01:03:49.000
+David Smith: uh…
+
+01:03:49.000 --> 01:03:50.000
+David Smith: If…
+
+01:03:50.000 --> 01:04:02.000
+David Smith: it is something that… unless someone… if people have questions or not, what I would do is I would release you so that you can spend the rest of this class just continuing to develop the project and the activities.
+
+01:04:02.000 --> 01:04:05.000
+David Smith: Any questions?
+
+01:04:06.000 --> 01:04:09.000
+Patrick Mannix: I don't really have questions.
+
+01:04:08.000 --> 01:04:25.000
+David Smith: OK. Yeah, go through that stuff. If you have questions, of course, send me an email or Discord me or something like that, and I'll respond. And otherwise, what I'll do is I will call the class, and I will say we will meet next week face to face in the studio.
+
+01:04:27.000 --> 01:04:29.000
+David Smith: Is that good?
+
+01:04:29.000 --> 01:04:31.000
+Patrick Mannix: That's good.
+
+01:04:30.000 --> 01:04:35.000
+David Smith: OK. Anyone else? Any questions? JJ, Jesse, Aiden?
+
+01:04:32.000 --> 01:04:34.000
+JJ Liriano: Yeah, it sounds good.
+
+01:04:35.000 --> 01:04:39.000
+JJ Liriano: No, I'm good. Yeah, I'm good to start.
+
+01:04:38.000 --> 01:04:39.000
+David Smith: Okay.
+
+01:04:38.000 --> 01:04:40.000
+Jessie Chan: I'm good too.
+
+01:04:40.000 --> 01:04:50.000
+David Smith: Okay, great! So, yeah, I'm really pleased with what I'm seeing, I'm really excited to see what these are going to look like by the end of the class, and we will pick it up again next week.
+
+01:04:52.000 --> 01:04:54.000
+JJ Liriano: Okay, sounds good.
+
+01:04:52.000 --> 01:04:53.000
+Jessie Chan: Okay.
+
+01:04:56.000 --> 01:04:58.000
+JJ Liriano: You too, thank you.
+
