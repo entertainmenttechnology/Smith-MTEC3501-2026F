@@ -124,18 +124,6 @@ Commit your changes with a clear message (e.g., `Week 1 initial setup`) and push
 
 Open your repository on GitHub and confirm your changes appear.
 
-### 6k. Create your first Issue
-
-Create a GitHub Issue titled:
-
-> `Complete MTEC 3501 Week 1 Onboarding`
-
-### 6l. Create your initial GitHub Project
-
-Create a GitHub Project with three columns: **Backlog / In Progress / Done**.
-
-Move your onboarding Issue to In Progress.
-
 ---
 
 ## Step 7 — Zotero Setup
@@ -209,8 +197,6 @@ Before Week 2, verify:
 - [ ] `project-log.md` Week 1 entry added
 - [ ] Changes committed and pushed
 - [ ] Changes verified on GitHub
-- [ ] First Issue created
-- [ ] Initial GitHub Project created
 - [ ] Zotero account verified, Desktop installed, Connector installed
 - [ ] At least one source added to Zotero
 - [ ] Google access confirmed
