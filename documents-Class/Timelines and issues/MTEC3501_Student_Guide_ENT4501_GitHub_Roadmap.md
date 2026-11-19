@@ -1,5 +1,5 @@
 # MTEC 3501 Student Guide
-## Building your ENT 4501 roadmap in GitHub
+## Building your MTEC 3501 roadmap in GitHub
 
 Start in your own GitHub repository. The shared class Project is the walkthrough example. By the end of this activity, you’ll have a draft LVP description and a semester roadmap that shows the major outcomes, the work behind them, and the dependencies that affect their timing.
 
