@@ -9,6 +9,8 @@
 **Contact:** dsmith@citytech.cuny.edu  
 **Zoom Meeting Info:** [Join Zoom Meeting](https://us02web.zoom.us/j/6491048253?pwd=dHlLcE9TR1pDeEhSSC83c2xjenlpUT09) • Meeting ID 649-104-8253 • Passcode `Advise`
 
+## - Begin Week 11 [create milestones and issues](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026F/blob/main/documents-Class/Timelines%20and%20issues/MTEC3501_Student_Guide_ENT4501_GitHub_Roadmap.md)
+
 ## ➜ [Begin Week 8 Activities](./assignments/week08/08_assignment_post_presentation_poc_development_draft.md)
 
 MTEC 3501 guides students through the development of a Culmination Project that will continue into ENT 4501. The course emphasizes iterative speculation, research, design, production, documentation, presentation, and assessment.
